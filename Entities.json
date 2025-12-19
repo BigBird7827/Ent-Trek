@@ -276,7 +276,7 @@
     {
       "ID": "ent-the-traveler",
       "Name": "The Traveler",
-      "ImageURL": "",
+      "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Ent-Trek/main/Images/The%20Traveler%20(Final).png",
       "OneLine": "A quiet, enigmatic alien who recognizes that the Enterprise’s greatest engine isn’t in Engineering—it’s in the mind. The Traveler arrives disguised as an eccentric passenger during a risky propulsion test and quickly proves he understands something Starfleet’s equations can’t fully capture: thought and intention can shape reality.\n\nHis brief contact with the crew—especially Wesley Crusher—turns a technical crisis into a lesson about perception, fear, and possibility. The Traveler doesn’t offer easy answers; he opens a door and leaves the Enterprise to decide what it means to step through it.",
       "FirstSeen": {
         "Series": "TNG",
@@ -315,3 +315,4 @@
     }
   ]
 }
+
