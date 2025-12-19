@@ -320,7 +320,7 @@
     {
       "ID": "ent-landru",
       "Name": "Landru",
-      "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Ent-Trek/main/Images/Landru%20(Final).png",
+      "ImageURL": "",
       "OneLine": "On Beta III, the streets are orderly, the smiles are practiced, and the citizens’ calm feels less like peace than like sedation. Landru is the name they trust—an unseen protector who ended an age of violence long ago and now keeps society “safe,” even when no one can clearly explain the price.\n\nIn “The Return of the Archons,” the Enterprise discovers that Landru’s order is enforced by conditioning and ritual, with individuality treated as a dangerous defect. Happiness is engineered, chaos is rationed into a daily release, and dissenters are “absorbed” into a collective. What looks like paradise is revealed as a machine.",
       "FirstSeen": {
         "Series": "TOS",
@@ -359,6 +359,51 @@
         "Establishes an early “god-machine” antagonist—an AI regime whose power is social conditioning as much as technology.",
         "Shows how infrastructure can become coercion when an absolute authority controls it, scaling oppression beyond a single community.",
         "Reinforces a core Trek theme: stability is not automatically moral, and a living society requires choice, growth, and the risk of change."
+      ]
+    },
+    {
+      "ID": "ent-trelane",
+      "Name": "Trelane",
+      "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Ent-Trek/main/Images/Trelane%20(Final).png",
+      "OneLine": "Trelane presents himself as the “lonely Squire of Gothos,” an aristocratic showman with a child’s attention span and a god’s remote control. He plucks Captain Kirk and Lieutenant Sulu out of their routine with a snap of his fingers, then stages the Enterprise crew inside a curated fantasy of old Earth—part salon, part playroom, part cage.\n\nIn “The Squire of Gothos,” the danger isn’t a conventional enemy fleet or a diplomatic misunderstanding. It’s an immensely powerful being treating living people like collectibles, testing boundaries for amusement, and escalating the “game” whenever he gets bored. The Enterprise survives by recognizing the difference between etiquette and ethics, and by outthinking a bully whose power far exceeds his maturity.",
+      "FirstSeen": {
+        "Series": "TOS",
+        "Title": "The Squire of Gothos",
+        "Season": 1,
+        "Episode": 18,
+        "Stardate": "2124.5",
+        "AirDate": "1967-01-12"
+      },
+      "KeyBeats": [
+        "While en route near Colony Beta VI, the Enterprise is intercepted by an unknown force and a mysterious, Earthlike planetoid appears where none should exist.",
+        "Kirk and Sulu are abruptly transported from the bridge to the surface, arriving in a lavish, anachronistic mansion.",
+        "They meet Trelane, who introduces himself as the Squire of Gothos and delights in his hobby of studying Earth’s past through intercepted broadcasts.",
+        "Trelane demonstrates near-omnipotent abilities—freezing people in place, altering environments, and overriding technology—while insisting the crew play along as his “guests.”",
+        "A landing party led by Spock beams down to retrieve Kirk and Sulu, only to be drawn into Trelane’s performances and tests of obedience.",
+        "Trelane’s games become more threatening as he grows irritated by defiance, treating the crew’s resistance as rudeness rather than moral refusal.",
+        "The Enterprise tries to escape, but the planetoid’s influence and Trelane’s power repeatedly block their efforts and endanger the ship.",
+        "Spock and the crew deduce that Trelane’s abilities are mediated by an external device rather than being purely innate, and they search for the source.",
+        "Kirk provokes Trelane into revealing his dependence on the device, then physically damages it, sharply reducing Trelane’s control and enraging him.",
+        "As Trelane prepares a final punishment, two unseen “parental” voices intervene, rebuking him for cruelty and ordering him to stop playing with his “pets.”",
+        "Trelane is removed against his will, and the Enterprise departs, left with the unsettling realization that some cosmic beings view humans as toys."
+      ],
+      "Story": [
+        "Trelane’s entrance is pure spectacle. The Enterprise is minding its route when an impossible planetoid materializes and Kirk and Sulu are yanked off the bridge without warning. In seconds, command authority, security procedures, and even the ship itself are reduced to props in someone else’s theater. The episode tells you immediately what kind of threat this is: not a rival captain you can negotiate with, but an entity who can rewrite the rules of the room.",
+        "The mansion on Gothos is the first clue to Trelane’s psychology. It isn’t a home built for living; it’s a set dressed from incomplete understanding, assembled from fragments of Earth culture gathered out of context. Trelane isn’t interested in human history as a living continuum—he’s interested in the costumes, the posture, the duels, and the vocabulary of superiority. He wants the feel of aristocracy without the responsibilities that usually come with power.",
+        "That’s why his charm is inseparable from menace. Trelane can be witty, playful, even charismatic, and the episode uses that to lure the audience into the same trap as the crew: you can almost pretend this is merely an eccentric host. Then he freezes someone mid-sentence or rearranges the environment with a gesture, and the truth snaps back into place. Politeness doesn’t matter here. Consent does.",
+        "The away team’s arrival makes the dynamic clearer. Spock tries analysis and restraint, McCoy bristles at the casual cruelty, and Kirk attempts the usual captain’s blend of diplomacy and firmness. None of it lands because Trelane doesn’t recognize their framework. To him, the crew’s autonomy is an inconvenience. Their refusal is not a moral boundary; it’s bad manners. The more they insist on being treated as people, the more he treats them as unruly guests who need to be managed.",
+        "The episode’s tension escalates in steps that mirror a child’s tantrum. When Trelane is entertained, he preens. When he is challenged, he punishes. He is obsessed with having the last word, with being obeyed, with forcing admiration. His “games” take on sharper edges precisely because he does not understand why harm is wrong—only that he enjoys control and dislikes resistance. It’s power without empathy, and that combination is the show’s quiet definition of tyranny.",
+        "On the Enterprise, the problem becomes strategic: how do you fight something that can override your tools? The ship can’t simply outrun a force that can appear where it wants, nor can it win a technical contest with a being who treats physics like decoration. So the crew shifts from engineering solutions to investigative ones—looking for patterns, limits, and dependencies. The story turns into a hunt for leverage rather than a battle for firepower.",
+        "Spock’s insight that Trelane’s abilities may be mediated—focused through something external—gives the crew a path. The idea is classic Trek: even when a threat seems magical, there may be a mechanism. Kirk leans into that logic by pushing Trelane emotionally, baiting him into revealing more than he intends. It’s a risky move because it requires antagonizing a being who can retaliate instantly, but it’s also the only path that doesn’t involve surrender.",
+        "When Kirk finally gets close enough to damage the device, the moment lands not as a triumphant victory but as a crack in the illusion. Trelane’s reaction is telling: he isn’t merely angry at losing power; he’s outraged at being treated as fallible. The squire persona depends on the fantasy of absolute mastery. Once that fantasy breaks, he becomes petulant and dangerous, escalating toward punishment out of wounded vanity.",
+        "The ending reframes everything with a single intervention. Two unseen voices—stern, parental, and utterly unimpressed—interrupt Trelane’s cruelty and order him to stop. In that instant, Trelane’s grand menace is reduced to a scolded child who has gone too far. The crew is spared not because they finally overpower him, but because someone higher on the ladder decides the game is over. It’s an unsettling close: the Enterprise escapes, but the universe is clearly inhabited by beings for whom humans are curiosities at best.",
+        "Trelane endures because he embodies a specific kind of Star Trek fear: the capricious god who mistakes dominance for play. He is charming enough to be memorable, childish enough to be unpredictable, and powerful enough to turn any moral stance into a life-or-death gamble. The episode leaves the crew with a lesson they can’t file away neatly—sometimes, the most important defense is refusing to validate cruelty as entertainment."
+      ],
+      "WhyItMatters": [
+        "A landmark “capricious god” story that explores power without empathy—an omnipotent bully who treats sentient beings as toys.",
+        "Often cited as a tonal and conceptual predecessor to later reality-warping antagonists (especially the kind who test Starfleet for amusement).",
+        "Highlights Trek’s moral line between etiquette and ethics: being a ‘good guest’ is meaningless if the host denies basic consent and dignity.",
+        "Shows the Enterprise winning through pattern recognition and leverage rather than weapons, reinforcing the franchise’s problem-solving identity."
       ]
     }
   ]
