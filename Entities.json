@@ -272,6 +272,46 @@
         "It expands the idea of alien societies beyond biology—depicting a civilization organized around philosophy, consequence, and existential stagnation.",
         "It frames humanity’s arc as unfinished on purpose: the Continuum’s trial isn’t about condemnation, but about whether growth is real when power, fear, and temptation collide."
       ]
+    },
+    {
+      "ID": "ent-the-traveler",
+      "Name": "The Traveler",
+      "ImageURL": "",
+      "OneLine": "A quiet, enigmatic alien who recognizes that the Enterprise’s greatest engine isn’t in Engineering—it’s in the mind. The Traveler arrives disguised as an eccentric passenger during a risky propulsion test and quickly proves he understands something Starfleet’s equations can’t fully capture: thought and intention can shape reality.\n\nHis brief contact with the crew—especially Wesley Crusher—turns a technical crisis into a lesson about perception, fear, and possibility. The Traveler doesn’t offer easy answers; he opens a door and leaves the Enterprise to decide what it means to step through it.",
+      "FirstSeen": {
+        "Series": "TNG",
+        "Title": "Where No One Has Gone Before",
+        "Season": 1,
+        "Episode": 6,
+        "Stardate": "41263.1",
+        "AirDate": "1987-10-26"
+      },
+      "KeyBeats": [
+        "The Enterprise is tasked with testing a radical warp propulsion method promoted by the confident “space traveler” Kosinski.",
+        "A peculiar passenger—later revealed as the Traveler—quietly observes the test preparations and takes a special interest in Wesley Crusher.",
+        "Kosinski’s first attempt fails, and he reacts by demanding more power and tighter control, insisting the flaw is in the crew’s execution.",
+        "As the modifications push the engines beyond safe limits, reality begins to behave strangely aboard the ship—people’s fears and stray thoughts manifest as dangerous illusions.",
+        "The Enterprise is hurled far beyond explored space, with navigation and engines becoming increasingly unreliable under the distorted conditions.",
+        "Picard confronts the chaos as personal visions intrude, forcing him to keep command focus while the ship’s environment turns psychologically unstable.",
+        "The Traveler reveals that Kosinski’s calculations are incomplete: the propulsion effect depends on focused thought and a mind capable of shaping the field.",
+        "Wesley, guided by the Traveler, learns to concentrate and channel intention into the propulsion phenomenon, stabilizing the ship’s ability to return.",
+        "With the crew’s collective focus and Wesley’s assistance, the Enterprise is guided back toward known space before the distortions become catastrophic.",
+        "The Traveler departs, leaving Wesley with the unsettling sense that his potential—and the universe’s rules—are larger than Starfleet’s training manuals."
+      ],
+      "Story": [
+        "The Traveler enters the Enterprise’s life like a footnote to someone else’s story: a strange, soft-spoken passenger in a corridor while an ambitious outsider—Kosinski—struts through Engineering selling the promise of a breakthrough. It starts as a familiar Starfleet dilemma: test something daring, keep the ship safe, and manage the ego of the person who wants credit for the miracle.",
+        "But the episode quickly pivots from hardware to headspace. As the engine changes come online, the ship doesn’t just lurch—it becomes permeable. The environment begins to echo what the crew is feeling. Private anxieties leak into the corridors. A casual thought becomes a hazard. The Enterprise feels less like a vessel crossing space and more like a laboratory where consciousness is the volatile substance under pressure.",
+        "Picard’s burden is twofold: command the ship while his own internal world fights for the bridge. The visuals and set-pieces are big, but the tension is intimate—fear isn’t an abstract “unknown phenomenon,” it’s an active force that can injure people and derail decisions. The crew’s professionalism becomes as important as their technical skill, because discipline of mind is suddenly part of damage control.",
+        "Wesley’s role is the episode’s emotional hinge. In the first season, his brilliance can read as convenient; here, it’s reframed as sensitivity—an ability to grasp patterns that aren’t strictly mechanical. The Traveler doesn’t flatter him with rank or destiny; he teaches him a practical lesson: focus matters, intention matters, and panic has consequences when reality is listening.",
+        "Kosinski’s collapse is quietly brutal. He believes he is the cause of the effect, but the moment conditions get strange, he has nothing to stand on. His certainty becomes a liability. The Traveler, by contrast, is calm because he understands the true mechanism isn’t ego or math alone—it’s the relationship between mind and the field they’re trying to ride.",
+        "The payoff is less a triumphant victory than a controlled escape. The Enterprise gets home by learning to stop feeding the phenomenon with uncontrolled fear and scattered thoughts. The Traveler’s final beat—leaving without fanfare—cements his tone: he isn’t here to join the crew or explain the universe. He’s here to nudge a single person into awareness, then vanish before the lesson becomes comfortable."
+      ],
+      "WhyItMatters": [
+        "Introduces the Traveler as one of TNG’s earliest “mystery benefactors,” a being whose understanding of reality sits outside Starfleet’s science.",
+        "Frames the show’s exploration theme as more than geography: the Enterprise can encounter places where mind and matter interact in unsettling ways.",
+        "Begins Wesley Crusher’s long-running arc about potential, purpose, and whether Starfleet is the right container for who he might become.",
+        "Adds a signature piece of early TNG wonder—an awe-driven, metaphysical adventure—amid the season’s more conventional first-contact stories."
+      ]
     }
   ]
 }
