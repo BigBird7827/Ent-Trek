@@ -1,0 +1,490 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Entities Console</title>
+  <style>
+    :root{
+      --bg0:#0b0f1a;
+      --bg1:#111a2e;
+      --panel:#0f1627cc;
+      --panel2:#0d1424e6;
+      --text:#e8eefc;
+      --muted:#aeb9d6;
+      --edge:#2a385e;
+      --accent:#76a5af;
+      --accent2:#caa75a;
+      --shadow: 0 10px 30px rgba(0,0,0,.45);
+      --radius:18px;
+    }
+    *{box-sizing:border-box}
+    body{
+      margin:0;
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+      color:var(--text);
+      background: radial-gradient(1200px 700px at 20% 10%, #1a2a4a 0%, transparent 60%),
+                  radial-gradient(900px 600px at 80% 30%, #2a1a46 0%, transparent 55%),
+                  linear-gradient(180deg, var(--bg0), var(--bg1));
+      min-height:100vh;
+    }
+    header{
+      padding:20px 22px 10px;
+      display:flex;
+      gap:14px;
+      align-items:baseline;
+      justify-content:space-between;
+    }
+    .title{
+      display:flex;
+      flex-direction:column;
+      gap:4px;
+    }
+    h1{
+      margin:0;
+      font-size:22px;
+      letter-spacing:.6px;
+      font-weight:800;
+      background: linear-gradient(90deg, #f4d27a, #caa75a, #f4d27a);
+      -webkit-background-clip:text;
+      background-clip:text;
+      color:transparent;
+      text-shadow: 0 0 22px rgba(202,167,90,.22);
+      position:relative;
+    }
+    h1::after{
+      content:"";
+      display:block;
+      height:3px;
+      width:210px;
+      margin-top:8px;
+      background: linear-gradient(90deg, rgba(244,210,122,.0), rgba(244,210,122,.85), rgba(244,210,122,.0));
+      border-radius:999px;
+      filter: drop-shadow(0 0 10px rgba(244,210,122,.25));
+    }
+    .subtitle{
+      color:var(--muted);
+      font-size:13px;
+      margin-top:2px;
+    }
+    .wrap{
+      padding:14px 22px 26px;
+      display:grid;
+      grid-template-columns: 360px 1fr;
+      gap:18px;
+    }
+    .panel{
+      background: var(--panel);
+      border:1px solid var(--edge);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      overflow:hidden;
+    }
+    .panelHead{
+      padding:14px 14px 12px;
+      background: linear-gradient(180deg, rgba(255,255,255,.06), rgba(255,255,255,0));
+      border-bottom:1px solid rgba(42,56,94,.65);
+    }
+    .panelHeadRow{
+      display:flex;
+      gap:10px;
+      align-items:center;
+    }
+    .pill{
+      font-size:12px;
+      color:#0a111f;
+      background: linear-gradient(90deg, var(--accent), #9bc6ce);
+      padding:5px 10px;
+      border-radius:999px;
+      font-weight:800;
+      letter-spacing:.3px;
+    }
+    .control{
+      padding:14px;
+      display:grid;
+      gap:10px;
+    }
+    select, input{
+      width:100%;
+      padding:11px 12px;
+      border-radius:14px;
+      border:1px solid rgba(42,56,94,.85);
+      background: var(--panel2);
+      color:var(--text);
+      outline:none;
+    }
+    select:focus, input:focus{
+      border-color: rgba(118,165,175,.95);
+      box-shadow: 0 0 0 3px rgba(118,165,175,.18);
+    }
+    .btnGrid{
+      display:grid;
+      gap:10px;
+      grid-template-columns: 1fr;
+      max-height: 62vh;
+      overflow:auto;
+      padding-right:4px;
+    }
+    .btn{
+      width:100%;
+      text-align:left;
+      padding:12px 12px;
+      border-radius:16px;
+      border:1px solid rgba(42,56,94,.9);
+      background: linear-gradient(180deg, rgba(255,255,255,.06), rgba(255,255,255,.02));
+      color:var(--text);
+      cursor:pointer;
+      transition: transform .06s ease, border-color .12s ease, box-shadow .12s ease;
+      display:flex;
+      align-items:center;
+      justify-content:space-between;
+      gap:10px;
+    }
+    .btn:hover{
+      transform: translateY(-1px);
+      border-color: rgba(118,165,175,.95);
+      box-shadow: 0 8px 22px rgba(0,0,0,.35);
+    }
+    .btnActive{
+      border-color: rgba(202,167,90,.95);
+      box-shadow: 0 0 0 3px rgba(202,167,90,.18), 0 12px 26px rgba(0,0,0,.38);
+    }
+    .btnName{
+      font-weight:800;
+      letter-spacing:.3px;
+      font-size:14px;
+    }
+    .btnTag{
+      font-size:11px;
+      color:var(--muted);
+      white-space:nowrap;
+    }
+    .detail{
+      padding:16px 18px 20px;
+    }
+    .detailTop{
+      display:flex;
+      gap:16px;
+      align-items:flex-start;
+      justify-content:space-between;
+      flex-wrap:wrap;
+    }
+    .entityName{
+      font-size:28px;
+      font-weight:900;
+      margin:0;
+      letter-spacing:.4px;
+    }
+    .oneLine{
+      margin:8px 0 0;
+      color: #dbe5ff;
+      font-size:14px;
+      line-height:1.55;
+      max-width: 980px;
+    }
+    .metaRow{
+      display:flex;
+      flex-wrap:wrap;
+      gap:10px;
+      margin-top:12px;
+    }
+    .chip{
+      border:1px solid rgba(42,56,94,.9);
+      background: rgba(15,22,39,.7);
+      padding:7px 10px;
+      border-radius:999px;
+      color: var(--muted);
+      font-size:12px;
+    }
+    .imgBox{
+      width:260px;
+      border-radius:18px;
+      overflow:hidden;
+      border:1px solid rgba(42,56,94,.9);
+      background: rgba(0,0,0,.25);
+      box-shadow: 0 12px 28px rgba(0,0,0,.35);
+    }
+    .imgBox img{
+      display:block;
+      width:100%;
+      height:auto;
+    }
+    .section{
+      margin-top:18px;
+      border-top:1px solid rgba(42,56,94,.55);
+      padding-top:14px;
+    }
+    .section h2{
+      margin:0 0 10px;
+      font-size:14px;
+      letter-spacing:.55px;
+      text-transform:uppercase;
+      color: #cfe0ff;
+    }
+    ul{
+      margin:10px 0 0 18px;
+      padding:0;
+      color:#dfe7ff;
+      line-height:1.6;
+    }
+    li{margin:8px 0}
+    .story p{
+      margin:0 0 12px;
+      color:#dfe7ff;
+      line-height:1.72;
+      font-size:14px;
+    }
+    .empty{
+      color: var(--muted);
+      font-style: italic;
+    }
+    .topBtn{
+      width:100%;
+      padding:12px 14px;
+      border-radius:16px;
+      border:1px solid rgba(42,56,94,.9);
+      background: linear-gradient(90deg, rgba(118,165,175,.22), rgba(202,167,90,.18));
+      color: var(--text);
+      font-weight:900;
+      letter-spacing:.35px;
+      cursor:pointer;
+      transition: transform .06s ease, border-color .12s ease, box-shadow .12s ease;
+    }
+    .topBtn:hover{
+      transform: translateY(-1px);
+      border-color: rgba(202,167,90,.95);
+      box-shadow: 0 10px 24px rgba(0,0,0,.35);
+    }
+    @media (max-width: 980px){
+      .wrap{grid-template-columns: 1fr}
+      .btnGrid{max-height: 36vh}
+      .imgBox{width:100%}
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="title">
+      <h1>Entities Console</h1>
+      <div class="subtitle">Select an entity to read its story.</div>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="panel" aria-label="Entity Selector">
+      <div class="panelHead">
+        <div class="panelHeadRow">
+          <span class="pill">SELECT</span>
+          <div style="color:var(--muted); font-size:12px;">Button list + dropdown</div>
+        </div>
+      </div>
+      <div class="control">
+        <select id="selector" aria-label="Entity dropdown"></select>
+        <div id="btnGrid" class="btnGrid" aria-label="Entity buttons"></div>
+      </div>
+    </section>
+
+    <section class="panel" aria-label="Entity Detail">
+      <div class="detail" id="detail"></div>
+    </section>
+  </main>
+
+  <script>
+    const entities = [
+      {
+        ID: "ent-nagilum",
+        Name: "Nagilum",
+        ImageURL: "",
+        OneLine: "A vast, non-corporeal intelligence that traps the Enterprise in a “hole in space” to study mortality—by forcing the crew to watch it happen.",
+        FirstSeen: {
+          Series: "TNG",
+          Title: "Where Silence Has Lease",
+          Season: 2,
+          Episode: 2,
+          Stardate: "42193.6",
+          AirDate: "1988-11-28"
+        },
+        KeyBeats: [
+          "The Enterprise is lured into an impossible void where sensors read “nothing,” and every attempted escape route collapses like a rigged puzzle.",
+          "Nagilum reveals itself as the architect of the trap, treating the crew as subjects in a controlled experiment rather than adversaries in a conflict.",
+          "To understand “limited existence,” Nagilum kills Ensign Haskell in front of the bridge crew—calmly, clinically, and with open fascination.",
+          "Nagilum states it would need to observe many kinds of dying, implying it would kill a third to half the ship to complete its study.",
+          "Picard initiates the Enterprise auto-destruct sequence rather than allow the crew to be harvested as data points.",
+          "Nagilum tries to derail Picard by appearing as trusted officers, but the bluff fails; the ship is released back to normal space at the last moment.",
+          "In a final exchange, Nagilum judges humanity as aggressive and conflict-driven, concluding they have “no common ground,” except curiosity."
+        ],
+        Story: [
+          "The Enterprise is charting when it encounters something that shouldn’t exist: a region of space that reads as an absence rather than a place. Navigation becomes a dead end—every starfix and course correction feels like bait, and the ship is kept penned inside a “hole in space” where ordinary rules don’t apply.",
+          "The crew slowly realizes the trap is interactive. The void isn’t just a hazard; it’s a constructed environment designed to evoke reactions, measure choices, and escalate stress. When the bridge stops playing along—refusing to chase the next “solution”—the intelligence behind the experiment finally introduces itself.",
+          "Nagilum appears in a deliberately unsettling, almost assembled way, like a face built to be understood rather than a body meant to be real. It speaks with the tone of a researcher who has found a fascinating specimen. It doesn’t grasp the crew’s assumptions about boundaries, privacy, or consent—only the opportunity to learn.",
+          "Its fixation sharpens around the human idea of death. Nagilum describes mortality as a strange, limited state—something it can’t comprehend from the outside. So it forces comprehension: Ensign Haskell convulses at his station and dies on the bridge while Nagilum watches with quiet interest, as though the ship itself were a lab bench.",
+          "When Nagilum casually estimates that completing its research could require the deaths of a third to half the crew, the encounter stops being a negotiation and becomes a line in the sand. Picard chooses the one move that refuses to cooperate with the experiment: he orders the Enterprise’s auto-destruct, preferring mutual destruction to becoming a controlled source of suffering.",
+          "Nagilum attempts one last manipulation—appearing as familiar faces to make Picard doubt himself—but the moment Picard proves he won’t yield, the trap ends. The Enterprise snaps back into normal space with only seconds to spare.",
+          "Nagilum’s closing verdict is not a victory speech so much as a field note: humanity is turbulent, combative, and driven to struggle against inevitability. Picard doesn’t try to argue the label away; he simply points out the one overlap that matters in that moment—curiosity. Nagilum agrees, and disappears, leaving the Enterprise to limp away from the ‘nothing’ that turned out to be very real."
+        ],
+        WhyItMatters: [
+          "Nagilum is one of Trek’s cleanest examples of curiosity without ethics: an intelligence so far outside humanoid experience that it treats death as neutral observation rather than moral catastrophe.",
+          "The encounter forces a command decision where there’s no “tech solution”—Picard’s leverage is purely philosophical and strategic: refusing to be studied at the cost of everything.",
+          "It’s a rare first-contact story where the most unsettling detail isn’t what Nagilum can do, but how calmly it does it—and how little it cares why humans find it monstrous."
+        ]
+      }
+    ];
+
+    const byId = new Map(entities.map(e => [e.ID, e]));
+    const selector = document.getElementById("selector");
+    const btnGrid = document.getElementById("btnGrid");
+    const detail = document.getElementById("detail");
+
+    function safe(v){ return (v === undefined || v === null) ? "" : String(v); }
+
+    function formatAirDate(iso){
+      const s = safe(iso).trim();
+      const m = s.match(/^([0-9]{4})-([0-9]{2})-([0-9]{2})$/);
+      if(!m) return s;
+      return `${m[2]}/${m[3]}/${m[1]}`;
+    }
+
+    function buildOptions(list){
+      selector.innerHTML = "";
+      for(const e of list){
+        const opt = document.createElement("option");
+        opt.value = e.ID;
+        opt.textContent = e.Name;
+        selector.appendChild(opt);
+      }
+    }
+
+    function buildButtons(list, activeId){
+      btnGrid.innerHTML = "";
+      for(const e of list){
+        const b = document.createElement("button");
+        b.className = "btn" + (e.ID === activeId ? " btnActive" : "");
+        const left = document.createElement("div");
+        left.className = "btnName";
+        left.textContent = e.Name;
+        const tag = document.createElement("div");
+        tag.className = "btnTag";
+        const fs = e.FirstSeen || {};
+        const tagText = [fs.Series, fs.Title].filter(Boolean).join(" • ");
+        tag.textContent = tagText ? tagText : "";
+        b.appendChild(left);
+        b.appendChild(tag);
+        b.addEventListener("click", () => selectEntity(e.ID, true));
+        btnGrid.appendChild(b);
+      }
+      if(list.length === 0){
+        const d = document.createElement("div");
+        d.className = "empty";
+        d.textContent = "No matches.";
+        btnGrid.appendChild(d);
+      }
+    }
+
+    function renderDetail(e){
+      const fs = e.FirstSeen || {};
+      const chips = [];
+      if(fs.Series) chips.push(fs.Series);
+      if(fs.Season && fs.Episode) chips.push(`S${fs.Season}E${fs.Episode}`);
+      if(fs.Title) chips.push(fs.Title);
+      if(fs.Stardate) chips.push(`Stardate ${fs.Stardate}`);
+      if(fs.AirDate) chips.push(formatAirDate(fs.AirDate));
+
+      const hasImg = !!safe(e.ImageURL).trim();
+      const imgHtml = hasImg ? `<div class="imgBox"><img src="${e.ImageURL}" alt="${e.Name}"/></div>` : "";
+
+      const keyBeatsHtml = (e.KeyBeats && e.KeyBeats.length)
+        ? `<ul>${e.KeyBeats.map(x => `<li>${x}</li>`).join("")}</ul>`
+        : `<div class="empty">No key beats yet.</div>`;
+
+      const storyHtml = (e.Story && e.Story.length)
+        ? `<div class="story">${e.Story.map(p => `<p>${p}</p>`).join("")}</div>`
+        : `<div class="empty">No story text yet.</div>`;
+
+      const whyHtml = (e.WhyItMatters && e.WhyItMatters.length)
+        ? `<ul>${e.WhyItMatters.map(x => `<li>${x}</li>`).join("")}</ul>`
+        : `<div class="empty">No takeaways yet.</div>`;
+
+      detail.innerHTML = `
+        <div class="detailTop">
+          <div style="flex: 1 1 560px; min-width: 280px;">
+            <h2 class="entityName">${safe(e.Name)}</h2>
+            <div class="oneLine">${safe(e.OneLine)}</div>
+            <div class="metaRow">
+              ${chips.map(c => `<span class="chip">${c}</span>`).join("")}
+            </div>
+          </div>
+          ${imgHtml}
+        </div>
+
+        <div class="section">
+          <h2>Key beats</h2>
+          ${keyBeatsHtml}
+        </div>
+
+        <div class="section">
+          <h2>Story</h2>
+          ${storyHtml}
+        </div>
+
+        <div class="section">
+          <h2>Why it matters</h2>
+          ${whyHtml}
+        </div>
+
+        <div class="section" style="border-top:none; padding-top:6px;">
+          <button class="topBtn" type="button" onclick="window.scrollTo({top:0, behavior:'smooth'});">Back to Top</button>
+        </div>
+      `;
+    }
+
+    function filteredList(){
+      const q = safe(search.value).trim().toLowerCase();
+      if(!q) return entities.slice();
+      return entities.filter(e => {
+        const fs = e.FirstSeen || {};
+        const hay = [
+          e.Name,
+          e.ID,
+          e.OneLine,
+          fs.Series,
+          fs.Title,
+          (e.KeyBeats || []).join(" "),
+          (e.Story || []).join(" "),
+          (e.WhyItMatters || []).join(" ")
+        ].join(" ").toLowerCase();
+        return hay.includes(q);
+      });
+    }
+
+    function selectEntity(id, scrollIntoView){
+      const list = filteredList();
+      const entity = byId.get(id) || list[0] || entities[0];
+      if(!entity) return;
+
+      selector.value = entity.ID;
+      buildButtons(list, entity.ID);
+      renderDetail(entity);
+
+      if(scrollIntoView){
+        document.querySelector('[aria-label="Entity Detail"]').scrollIntoView({behavior:"smooth", block:"start"});
+      }
+    }
+
+    function init(){
+      const list = entities.slice();
+      buildOptions(list);
+      buildButtons(list, list[0]?.ID || "");
+      if(list[0]) selectEntity(list[0].ID, false);
+
+      selector.addEventListener("change", () => selectEntity(selector.value, true));
+        buildOptions(list2);
+        const current = byId.get(selector.value);
+        const nextId = (current && list2.some(x => x.ID === current.ID)) ? current.ID : (list2[0]?.ID || entities[0]?.ID);
+        if(nextId) selectEntity(nextId, false);
+      });
+    }
+
+    init();
+  </script>
+</body>
+</html>
