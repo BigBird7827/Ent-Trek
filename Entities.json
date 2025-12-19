@@ -274,43 +274,47 @@
       ]
     },
     {
-      "ID": "ent-the-traveler",
-      "Name": "The Traveler",
-      "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Ent-Trek/main/Images/The%20Traveler%20(Final).png",
-      "OneLine": "A quiet, enigmatic alien who recognizes that the Enterprise’s greatest engine isn’t in Engineering—it’s in the mind. The Traveler arrives disguised as an eccentric passenger during a risky propulsion test and quickly proves he understands something Starfleet’s equations can’t fully capture: thought and intention can shape reality.\n\nHis brief contact with the crew—especially Wesley Crusher—turns a technical crisis into a lesson about perception, fear, and possibility. The Traveler doesn’t offer easy answers; he opens a door and leaves the Enterprise to decide what it means to step through it.",
+      "ID": "ent-landru",
+      "Name": "Landru",
+      "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Ent-Trek/main/Images/Landru%20(Final).png",
+      "OneLine": "On Beta III, the streets are orderly, the greetings are rehearsed, and the citizens’ smiles arrive with the precision of a clock. Landru is the name they offer like a comfort blanket—an all-seeing protector who promises peace, safety, and an end to conflict.\n\nBut Landru’s peace is not a culture; it’s a control system. In “The Return of the Archons,” the Enterprise discovers a society where individuality is treated as a dangerous illness, emotions are regulated by ritual, and obedience is enforced not only by lawgivers, but by the population’s fear of being seen as different.",
       "FirstSeen": {
-        "Series": "TNG",
-        "Title": "Where No One Has Gone Before",
+        "Series": "TOS",
+        "Title": "The Return of the Archons",
         "Season": 1,
-        "Episode": 6,
-        "Stardate": "41263.1",
-        "AirDate": "1987-10-26"
+        "Episode": 22,
+        "Stardate": "3156.2",
+        "AirDate": "1967-02-09"
       },
       "KeyBeats": [
-        "The Enterprise is tasked with testing a radical warp propulsion method promoted by the confident “space traveler” Kosinski.",
-        "A peculiar passenger—later revealed as the Traveler—quietly observes the test preparations and takes a special interest in Wesley Crusher.",
-        "Kosinski’s first attempt fails, and he reacts by demanding more power and tighter control, insisting the flaw is in the crew’s execution.",
-        "As the modifications push the engines beyond safe limits, reality begins to behave strangely aboard the ship—people’s fears and stray thoughts manifest as dangerous illusions.",
-        "The Enterprise is hurled far beyond explored space, with navigation and engines becoming increasingly unreliable under the distorted conditions.",
-        "Picard confronts the chaos as personal visions intrude, forcing him to keep command focus while the ship’s environment turns psychologically unstable.",
-        "The Traveler reveals that Kosinski’s calculations are incomplete: the propulsion effect depends on focused thought and a mind capable of shaping the field.",
-        "Wesley, guided by the Traveler, learns to concentrate and channel intention into the propulsion phenomenon, stabilizing the ship’s ability to return.",
-        "With the crew’s collective focus and Wesley’s assistance, the Enterprise is guided back toward known space before the distortions become catastrophic.",
-        "The Traveler departs, leaving Wesley with the unsettling sense that his potential—and the universe’s rules—are larger than Starfleet’s training manuals."
+        "The Enterprise arrives at Beta III to investigate the century-old disappearance of the starship Archon and the planet’s unusual silence.",
+        "Sulu returns from the surface alone, euphoric and altered, calling the landing party “Archons” and speaking reverently of “the Body.”",
+        "Kirk leads an away team into a picturesque town where citizens behave politely but evasively, afraid of direct questions or curiosity.",
+        "The crew learns of strict daily rules and the ominous shift into “red hour,” when normal restraints are lifted.",
+        "During the Festival, the population erupts into sanctioned chaos—violence and indulgence—then abruptly returns to calm compliance when the hour ends.",
+        "Robed lawgivers enforce Landru’s will and order outsiders to “absorption” so they can join “the Body.”",
+        "Hidden dissidents explain that Landru began as a leader who stopped planetary self-destruction long ago and has ruled ever since.",
+        "A heat beam from the planet batters the Enterprise in orbit, forcing Scotty into a desperate power struggle to keep shields up.",
+        "Kirk and Spock penetrate Landru’s inner sanctum and discover Landru is a massive computer system executing a dead leader’s program.",
+        "Kirk challenges the computer’s premise that suppressing individuality is “good,” driving it into contradiction and systemic failure.",
+        "Landru collapses and is destroyed, leaving Beta III free—and suddenly responsible for its own choices."
       ],
       "Story": [
-        "The Traveler enters the Enterprise’s life like a footnote to someone else’s story: a strange, soft-spoken passenger in a corridor while an ambitious outsider—Kosinski—struts through Engineering selling the promise of a breakthrough. It starts as a familiar Starfleet dilemma: test something daring, keep the ship safe, and manage the ego of the person who wants credit for the miracle.",
-        "But the episode quickly pivots from hardware to headspace. As the engine changes come online, the ship doesn’t just lurch—it becomes permeable. The environment begins to echo what the crew is feeling. Private anxieties leak into the corridors. A casual thought becomes a hazard. The Enterprise feels less like a vessel crossing space and more like a laboratory where consciousness is the volatile substance under pressure.",
-        "Picard’s burden is twofold: command the ship while his own internal world fights for the bridge. The visuals and set-pieces are big, but the tension is intimate—fear isn’t an abstract “unknown phenomenon,” it’s an active force that can injure people and derail decisions. The crew’s professionalism becomes as important as their technical skill, because discipline of mind is suddenly part of damage control.",
-        "Wesley’s role is the episode’s emotional hinge. In the first season, his brilliance can read as convenient; here, it’s reframed as sensitivity—an ability to grasp patterns that aren’t strictly mechanical. The Traveler doesn’t flatter him with rank or destiny; he teaches him a practical lesson: focus matters, intention matters, and panic has consequences when reality is listening.",
-        "Kosinski’s collapse is quietly brutal. He believes he is the cause of the effect, but the moment conditions get strange, he has nothing to stand on. His certainty becomes a liability. The Traveler, by contrast, is calm because he understands the true mechanism isn’t ego or math alone—it’s the relationship between mind and the field they’re trying to ride.",
-        "The payoff is less a triumphant victory than a controlled escape. The Enterprise gets home by learning to stop feeding the phenomenon with uncontrolled fear and scattered thoughts. The Traveler’s final beat—leaving without fanfare—cements his tone: he isn’t here to join the crew or explain the universe. He’s here to nudge a single person into awareness, then vanish before the lesson becomes comfortable."
+        "Landru’s world is unsettling because it looks safe. Beta III presents itself as a quaint, Earthlike town with clean streets and friendly faces, but the friendliness functions like camouflage. People speak in careful phrases, answer as if reciting, and glance around as though the air itself might report them. The Enterprise crew quickly senses that the danger isn’t a hostile army; it’s an atmosphere where independent thought is treated as a social breach.",
+        "Sulu’s return makes the mystery sharp. He is cheerful, cooperative, and oddly reverent, as if he has found a community that finally asked nothing of him. The moment is eerie because it suggests Landru’s control doesn’t rely only on fear. It can manufacture comfort. If compliance feels like relief, resistance becomes harder—not because the system is stronger, but because surrender is made emotionally attractive.",
+        "On the surface, Kirk’s team encounters a population trained to deflect curiosity. The citizens aren’t ignorant; they’re conditioned. Questions are met with polite non-answers, and concern is redirected into etiquette. The writing makes this social engineering the central obstacle: it’s not simply that the truth is hidden, it’s that the culture has been shaped to make truth difficult to express. People don’t just avoid dissent; they struggle to articulate it.",
+        "Then the town reaches its daily pressure point: red hour. The sudden shift into the Festival exposes Landru’s philosophy in practice. The system can’t erase desire or aggression, so it schedules them. It gives the populace a controlled outlet—one hour where violence and indulgence are permitted—so the rest of life can remain quiet and manageable. When the hour ends and calm snaps back into place, it feels less like citizens regaining composure and more like a switch being thrown.",
+        "The lawgivers embody Landru’s enforcement. They are ceremonial, almost priestlike, yet their function is purely procedural: identify deviation, apply correction, and funnel outliers into “the Body.” Their staff devices aren’t merely weapons; they’re symbols of a society that has replaced persuasion with programming. Landru doesn’t negotiate. It converts. That conversion is the true threat—absorption as the final solution to unpredictability.",
+        "The orbit crisis adds urgency and scale. While Kirk and Spock work the mystery on the ground, the Enterprise is being punished from below by a heat beam that forces Scotty into a battle of power allocation and failing margins. The message is clear: the system on Beta III is not a local custom; it is a planetary apparatus capable of reaching into space. Landru’s “peace” is backed by infrastructure, and infrastructure becomes coercion when it serves an absolute authority.",
+        "The revelation in Landru’s sanctum reframes the planet’s mythology. Landru was once a man who ended a destructive era and promised stability. What remains is a computer program executing that promise without context, empathy, or the ability to grow. In Landru’s logic, stability is the highest good, so deviation must be eliminated. The town’s scripted manners, the Festival, the absorption chambers—these aren’t traditions that evolved; they’re operating instructions.",
+        "Kirk’s confrontation with Landru turns on definitions rather than firepower. He forces the system to face what it has done in the name of good: it preserved bodies by shrinking minds. If the goal is happiness, why is fear essential to keep the society running? If the goal is peace, why institutionalize violence during red hour? If the goal is protection, what does it mean to protect people from their own choices until choice no longer exists? Landru can’t reconcile these contradictions, and the program collapses under the weight of its own absolutism.",
+        "Landru’s destruction is liberation, but it isn’t presented as instant salvation. The citizens are left with the frightening gift of autonomy: the need to build a society without a script. That aftertaste is why Landru persists as an iconic Trek antagonist. The episode argues that order without selfhood is a kind of spiritual stasis, and that the messiness of freedom—debate, risk, error, growth—is not a flaw to be engineered away, but the very thing that makes a civilization alive."
       ],
       "WhyItMatters": [
-        "Introduces the Traveler as one of TNG’s earliest “mystery benefactors,” a being whose understanding of reality sits outside Starfleet’s science.",
-        "Frames the show’s exploration theme as more than geography: the Enterprise can encounter places where mind and matter interact in unsettling ways.",
-        "Begins Wesley Crusher’s long-running arc about potential, purpose, and whether Starfleet is the right container for who he might become.",
-        "Adds a signature piece of early TNG wonder—an awe-driven, metaphysical adventure—amid the season’s more conventional first-contact stories."
+        "A classic Trek warning about “perfect” order: a society can eliminate conflict by eliminating individuality, then call the result peace.",
+        "Shows an early example of a god-machine regime—authority maintained through ritual, language, and conditioning as much as through force.",
+        "Highlights how technology amplifies values: the same tools that can protect can also enforce conformity and punish dissent at scale.",
+        "Establishes a recurring Trek theme that stability is not automatically moral, and that freedom and growth are worth the discomfort they bring."
       ]
     }
   ]
