@@ -3,7 +3,7 @@
     {
       "ID": "ent-nagilum",
       "Name": "Nagilum",
-      "ImageURL": "",
+      "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Ent-Trek/main/Images/Nagilum.png",
       "OneLine": "A vast, non-corporeal intelligence that traps the Enterprise in a manufactured void to study “death” firsthand—treating the crew as specimens rather than people.",
       "FirstSeen": {
         "Series": "TNG",
@@ -49,7 +49,7 @@
     {
       "ID": "ent-talosians",
       "Name": "The Talosians",
-      "ImageURL": "",
+      "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Ent-Trek/main/Images/Talosians.png",
       "OneLine": "Reclusive telepathic aliens from Talos IV who can project illusions so real they become prisons—until they decide to use the same gift as mercy.",
       "FirstSeen": {
         "Series": "TOS",
@@ -89,7 +89,7 @@
     {
       "ID": "ent-armus",
       "Name": "Armus",
-      "ImageURL": "",
+      "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Ent-Trek/main/Images/Armus.png",
       "OneLine": "A stranded, sentient manifestation of malice on Vagra II—an immortal being that kills to provoke emotion, then feeds on the attention it forces from its captives.",
       "FirstSeen": {
         "Series": "TNG",
@@ -132,7 +132,7 @@
     {
       "ID": "ent-guardian-of-forever",
       "Name": "The Guardian of Forever",
-      "ImageURL": "",
+      "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Ent-Trek/main/Images/Guardian%20(Final).png",
       "OneLine": "The Guardian of Forever is less a “machine” than a presence—an ancient, quasi-metallic gateway set in a ruined city on a dead world, speaking with calm certainty as it opens windows onto history. It doesn’t lure travelers with promises or warnings; it simply offers access, as if time were a library shelf and linear lives were brief visitors who can’t help but leave fingerprints.\n\nWhat follows is the Guardian’s story as Star Trek’s most consequential door: a sentient portal that can show the past, choose a survivable moment, and let one step rewrite everything. When the Enterprise first encounters it, the crew discovers that fixing a broken timeline can demand a price that feels brutally personal—and that sometimes the Guardian’s greatest power is not changing history, but forcing you to watch the cost of doing so.",
       "FirstSeen": {
         "Series": "TOS",
@@ -178,7 +178,7 @@
     {
       "ID": "ent-prophets",
       "Name": "The Prophets",
-      "ImageURL": "",
+      "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Ent-Trek/main/Images/Prophets%20(Final).png",
       "OneLine": "The Prophets are not a species you “meet” in the usual sense—they are the living interior of the Bajoran Wormhole, intelligent and vast, experiencing existence all at once rather than moment by moment. When Starfleet first reaches the Celestial Temple, they don’t greet visitors with threats or diplomacy; they study them through meaning, memory, and the strange logic of visions, trying to understand why linear beings cling to loss, choice, and time.\n\nWhat follows is the Prophets’ story as the station and Bajor come to orbit their attention: how they communicate through Orbs and encounters that feel like dreams, why Benjamin Sisko becomes their Emissary, and how a non-linear presence—rarely intervening, but intervening decisively when it does—reshapes war, faith, and destiny at the mouth of the wormhole.",
       "FirstSeen": {
         "Series": "DS9",
