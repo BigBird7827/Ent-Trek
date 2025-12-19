@@ -45,6 +45,89 @@
         "It’s a first-contact story about consent: exploration doesn’t become noble just because the powerful call it “curiosity.”",
         "Picard’s auto-destruct is the point: the Enterprise is not merely a ship that survives threats—it is a crew that decides which lines cannot be crossed, even when survival tempts compromise."
       ]
+    },
+    {
+      "ID": "ent-talosians",
+      "Name": "The Talosians",
+      "ImageURL": "",
+      "OneLine": "Reclusive telepathic aliens from Talos IV who can project illusions so real they become prisons—until they decide to use the same gift as mercy.",
+      "FirstSeen": {
+        "Series": "TOS",
+        "Title": "The Cage",
+        "Season": 0,
+        "Episode": 0,
+        "Stardate": "",
+        "AirDate": "1988-10-15"
+      },
+      "KeyBeats": [
+        "A distress signal draws Captain Pike’s Enterprise to Talos IV, where a landing party discovers survivors and an eerily preserved underground complex.",
+        "The Talosians abduct Pike and confine him in a transparent cell, revealing their true power: telepathic illusions indistinguishable from reality.",
+        "They stage vivid scenarios—desert captivity, Orion slave-market fantasies, and familiar shipboard settings—trying to steer Pike into compliance through desire, fear, and hope.",
+        "Pike learns the trap isn’t physical so much as psychological: the Talosians can control what you perceive, but they still need you to accept the life they’re offering.",
+        "The Talosians’ history is exposed in fragments: once technologically advanced, they became dependent on illusions and lost the ability to rebuild when disaster struck.",
+        "Pike refuses to be reduced to a breeding resource and rejects the comfort of a fabricated life, forcing the Talosians to reconsider their plan.",
+        "Years later, when Pike is catastrophically injured and unable to speak, Spock risks everything to return him to Talos IV—the only place capable of giving him agency again.",
+        "The Talosians transmit Pike’s earlier Talos IV experience as evidence during Spock’s court-martial, revealing they’re actively guiding events from the planet.",
+        "In the end, the Talosians grant Pike an illusory life with Vina, turning the same power once used as coercion into a final refuge."
+      ],
+      "Story": [
+        "The Talosians enter Star Trek as a whisper behind a distress call. Talos IV looks like another rescue—until the landing party finds signs of a carefully curated trap: a lone survivor in an impossible setting, a descent into an underground world, and a sense that the planet itself is watching. When Pike is separated and taken, the story pivots from exploration to captivity.",
+        "Pike’s prison is almost elegant: a transparent cell where violence is pointless and escape routes are simply rewritten. The Talosians don’t need guards or weapons because they can replace the world in Pike’s mind. They speak with a cold patience, probing him as if the boundaries of consent are just another cultural quirk they don’t have to honor. Their tool isn’t force; it’s certainty—making the unreal feel undeniable.",
+        "They test Pike with tailored realities. A harsh desert survival scenario. A seductive fantasy designed to bypass his discipline. A familiar shipboard environment that seems to promise normalcy—until it twists into proof that nothing around him can be trusted. The Talosians aren’t improvising; they’re running an experiment with Pike’s instincts, trying to find the version of reality that will make him stop resisting.",
+        "But Pike discovers an opening in the cage: the Talosians can control perception, yet they still depend on choice. They can offer pleasure, companionship, and a life without pain—but they can’t make him want it the way they need him to. As Pike pushes back, the Talosians’ backstory surfaces: a civilization that once relied on machines and industry, now reduced to a subterranean afterlife powered by illusions because their dependence hollowed out the skills needed to rebuild.",
+        "That revelation reframes them. The Talosians aren’t only predators; they’re survivors clinging to the one power they have left. Their plan to keep humans as breeding stock is monstrous, but it comes from desperation as much as cruelty. Pike’s refusal doesn’t magically redeem them—yet it forces a recalculation. The Talosians, for the first time in a long time, are confronted with a subject who won’t accept the story they’re trying to write.",
+        "Years later, their story becomes darker and stranger. Pike—now grievously injured and nearly unable to communicate—becomes the center of Spock’s mutiny. Spock’s choice is a confession of what the Talosians represent: a forbidden solution. During the court-martial at Starbase 11, the Talosians transmit Pike’s earlier Talos IV experience as evidence, letting Kirk see exactly what happened and why Spock is doing this.",
+        "The Talosians’ final act is not conquest, but mercy on their terms. They offer Pike an illusory life with Vina—one in which he can move, speak, and live with dignity again. It’s an unsettling ending precisely because it’s sincere: the same power that once made a cage becomes a sanctuary. The Talosians remain ethically alien, but the story leaves them as something rarer than a simple villain—an intelligence capable of choosing restraint when it finally understands what its prisoner is actually asking for."
+      ],
+      "WhyItMatters": [
+        "They establish one of Trek’s earliest, purest psychological threats: an enemy that doesn’t need weapons because it can rewrite your reality.",
+        "Their illusion power forces a different kind of resistance story—Pike wins not by overpowering them, but by refusing to let comfort and fantasy become a substitute for freedom.",
+        "They become the franchise’s first big argument about consent and manipulation: even paradise is a prison if you can’t choose it on honest terms.",
+        "Their return in Pike’s later fate turns a sci‑fi horror premise into a moral question: if a constructed life restores agency and dignity, is it still a cage—or a final kindness?"
+      ]
+    },
+    {
+      "ID": "ent-armus",
+      "Name": "Armus",
+      "ImageURL": "",
+      "OneLine": "A stranded, sentient manifestation of malice on Vagra II—an immortal being that kills to provoke emotion, then feeds on the attention it forces from its captives.",
+      "FirstSeen": {
+        "Series": "TNG",
+        "Title": "Skin of Evil",
+        "Season": 1,
+        "Episode": 23,
+        "Stardate": "41601.3",
+        "AirDate": "1988-04-25"
+      },
+      "KeyBeats": [
+        "The Enterprise tracks a distress call from a shuttle carrying Deanna Troi and Lieutenant Ben Prieto to the desolate surface of Vagra II.",
+        "Transporter locks fail to pull Troi and Prieto out, forcing a ground rescue and putting the crew within reach of whatever is interfering.",
+        "A black, tar-like entity rises from an oil slick and identifies itself as Armus—immediately asserting control over the crash site.",
+        "Armus demonstrates brute telekinetic power, hurling and incapacitating members of the landing party with casual contempt.",
+        "When Tasha Yar approaches in an attempt to help, Armus strikes her down without warning, killing her in moments.",
+        "Armus holds Troi and Prieto as leverage, taunting the Enterprise crew and demanding engagement on its terms.",
+        "Troi senses a deep current beneath the cruelty—rage and loneliness—while Armus claims to be the cast-off “skin” of an ancient race’s evil.",
+        "Picard refuses to bargain away principles just to satisfy Armus’ need for attention, framing capitulation itself as the real moral failure.",
+        "A coordinated distraction gives the Enterprise the transporter window it needs to beam Troi and Prieto out of the shuttle.",
+        "Armus is left behind—alive, furious, and alone—unable to force the crew to remain in its orbit any longer."
+      ],
+      "Story": [
+        "Armus enters the Enterprise’s path through a straightforward Starfleet problem: a distress call, a downed shuttle, and crewmembers trapped on an inhospitable planet. Vagra II is bleak and empty, the kind of place where the danger usually comes from environment and exposure. That expectation collapses as soon as the rescue begins—because the real threat is not the terrain, but the intelligence waiting inside it.",
+        "When transporter locks won’t hold on Troi and Prieto, the Enterprise has to commit bodies to the surface. The landing party is there to help, not to fight, and that imbalance becomes Armus’ opening move. An oil slick stirs, rises, and forms a figure like a nightmare given shape. Armus doesn’t introduce itself as a misunderstood alien or a cautious defender. It announces dominance. It wants control and reaction, and it can take both.",
+        "Armus’ first demonstrations of power are blunt. With invisible force it can throw trained officers like toys, immobilize them, and make the rules of proximity entirely its own. It holds the crash site as a stage. The shuttle becomes a hostage box. Every attempt to move forward turns into an invitation for Armus to punish someone for trying.",
+        "Then the episode’s defining moment lands with no heroic framing and no warning. Tasha Yar steps forward to help—and Armus kills her instantly. There is no battle, no sacrifice in a firefight, no last-second rescue. A main officer of the Enterprise simply dies because a malicious entity decides she should. The abruptness is the point: Armus doesn’t kill for strategy. It kills to demonstrate that the crew’s values mean nothing to it.",
+        "The Enterprise pulls the landing party back, but the damage is done. Yar’s death becomes a raw wound that Armus immediately probes from a distance, using it to deepen the crew’s anger and frustration. On the surface, Armus continues its game with Troi and Prieto, keeping them trapped and forcing the Enterprise to choose between caution and desperation.",
+        "Troi’s presence matters because she becomes the closest thing the episode has to translation. Through her, the crew learns that Armus is not only cruel but emotionally driven—seething with abandonment and resentment. Armus claims an origin that is as grotesque as it is simple: an ancient people cast off their own evil and left it behind, and Armus is what remained. Whether that story is literal or self-serving, Armus behaves like something that has been discarded and has decided the universe owes it suffering in return.",
+        "Picard’s response is a refusal to let Armus define the moral terms. Armus wants the crew to bargain, plead, hate, and remain present—anything that confirms it still has power over others. Picard counters by naming the trap: giving Armus what it wants is the real defeat, because it makes the Enterprise complicit in its own manipulation.",
+        "The resolution is not a triumph over Armus’ power. The Enterprise doesn’t destroy it or cure it. Instead, the crew finds a narrow tactical opening—enough distraction, enough transporter lock—to pull Troi and Prieto free. The ship leaves Vagra II, and Armus is denied its prize: continued control over people who have to listen to it.",
+        "Armus’ final state is the punishment Picard points toward from the start: immortality without relationship, rage without audience, power without the ability to make anyone stay. The Enterprise can’t make Armus good, and it can’t safely study it. All it can do is escape—and refuse to turn moral surrender into the price of rescue."
+      ],
+      "WhyItMatters": [
+        "Armus is one of the franchise’s starkest reminders that some threats are not puzzles to solve or cultures to understand—they are malice that wants engagement as fuel.",
+        "Tasha Yar’s sudden death makes the episode a turning point in tone: Starfleet competence and good intentions do not guarantee safety, and tragedy can be arbitrary.",
+        "The story frames “winning” as refusing the enemy’s moral framing. Picard’s core move is not violence, but denial—rejecting the idea that capitulation is the cost of saving lives.",
+        "Armus lingers as a uniquely Trek horror: an immortal intelligence trapped in one place, endlessly dangerous, and defined as much by loneliness as by cruelty."
+      ]
     }
   ]
 }
