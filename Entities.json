@@ -1,0 +1,41 @@
+{
+  "Entities": [
+    {
+      "ID": "ent-nagilum",
+      "Name": "Nagilum",
+      "ImageURL": "",
+      "OneLine": "A vast, non-corporeal intelligence that traps the Enterprise in a “hole in space” to study mortality—by forcing the crew to watch it happen.",
+      "FirstSeen": {
+        "Series": "TNG",
+        "Title": "Where Silence Has Lease",
+        "Season": 2,
+        "Episode": 2,
+        "Stardate": "42193.6",
+        "AirDate": "1988-11-28"
+      },
+      "KeyBeats": [
+        "The Enterprise is lured into an impossible void where sensors read “nothing,” and every attempted escape route collapses like a rigged puzzle.",
+        "Nagilum reveals itself as the architect of the trap, treating the crew as subjects in a controlled experiment rather than adversaries in a conflict.",
+        "To understand “limited existence,” Nagilum kills Ensign Haskell in front of the bridge crew—calmly, clinically, and with open fascination.",
+        "Nagilum states it would need to observe many kinds of dying, implying it would kill a third to half the ship to complete its study.",
+        "Picard initiates the Enterprise auto-destruct sequence rather than allow the crew to be harvested as data points.",
+        "Nagilum tries to derail Picard by appearing as trusted officers, but the bluff fails; the ship is released back to normal space at the last moment.",
+        "In a final exchange, Nagilum judges humanity as aggressive and conflict-driven, concluding they have “no common ground,” except curiosity."
+      ],
+      "Story": [
+        "The Enterprise is charting when it encounters something that shouldn’t exist: a region of space that reads as an absence rather than a place. Navigation becomes a dead end—every starfix and course correction feels like bait, and the ship is kept penned inside a “hole in space” where ordinary rules don’t apply.",
+        "The crew slowly realizes the trap is interactive. The void isn’t just a hazard; it’s a constructed environment designed to evoke reactions, measure choices, and escalate stress. When the bridge stops playing along—refusing to chase the next “solution”—the intelligence behind the experiment finally introduces itself.",
+        "Nagilum appears in a deliberately unsettling, almost assembled way, like a face built to be understood rather than a body meant to be real. It speaks with the tone of a researcher who has found a fascinating specimen. It doesn’t grasp the crew’s assumptions about boundaries, privacy, or consent—only the opportunity to learn.",
+        "Its fixation sharpens around the human idea of death. Nagilum describes mortality as a strange, limited state—something it can’t comprehend from the outside. So it forces comprehension: Ensign Haskell convulses at his station and dies on the bridge while Nagilum watches with quiet interest, as though the ship itself were a lab bench.",
+        "When Nagilum casually estimates that completing its research could require the deaths of a third to half the crew, the encounter stops being a negotiation and becomes a line in the sand. Picard chooses the one move that refuses to cooperate with the experiment: he orders the Enterprise’s auto-destruct, preferring mutual destruction to becoming a controlled source of suffering.",
+        "Nagilum attempts one last manipulation—appearing as familiar faces to make Picard doubt himself—but the moment Picard proves he won’t yield, the trap ends. The Enterprise snaps back into normal space with only seconds to spare.",
+        "Nagilum’s closing verdict is not a victory speech so much as a field note: humanity is turbulent, combative, and driven to struggle against inevitability. Picard doesn’t try to argue the label away; he simply points out the one overlap that matters in that moment—curiosity. Nagilum agrees, and disappears, leaving the Enterprise to limp away from the ‘nothing’ that turned out to be very real."
+      ],
+      "WhyItMatters": [
+        "Nagilum is one of Trek’s cleanest examples of curiosity without ethics: an intelligence so far outside humanoid experience that it treats death as neutral observation rather than moral catastrophe.",
+        "The encounter forces a command decision where there’s no “tech solution”—Picard’s leverage is purely philosophical and strategic: refusing to be studied at the cost of everything.",
+        "It’s a rare first-contact story where the most unsettling detail isn’t what Nagilum can do, but how calmly it does it—and how little it cares why humans find it monstrous."
+      ]
+    }
+  ]
+}
