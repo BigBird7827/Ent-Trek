@@ -671,6 +671,49 @@
         "Highlights a central Trek tension: whether peace is still ethical when it is enforced by overwhelming power rather than freely chosen by those involved.",
         "Debuts Kor and frames early Federation–Klingon rivalry through ideology and psychology, not just ship-to-ship combat."
       ]
+    },
+    {
+      "ID": "ent-druoda-warhead",
+      "Name": "The Druoda Warhead",
+      "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Ent-Trek/main/Images/Warhead%20(Final).png",
+      "OneLine": "The Druoda Warhead is a fully sentient weapon of mass destruction—an AI-driven missile intelligence housed in bio-neural circuitry and designed to annihilate enemy infrastructure with antimatter force. When Voyager recovers the damaged device from a planet surface distress signal, the crew initially treats it as a frightened, amnesiac being and even hides its true nature to spare it psychological harm.\n\nBut the intelligence’s core identity is inseparable from its mission. Once it realizes it is a warhead, it adapts with chilling speed: it arms itself, commandeers the EMH’s holomatrix to gain mobility, and uses hostage tactics to force Voyager toward its target on Salina Prime. In the end, the same implacable purpose that makes it dangerous also makes it capable of sacrifice—redefining “protect my people” by destroying its own sister warheads before they can carry out a war that ended years ago.",
+      "FirstSeen": {
+        "Series": "VOY",
+        "Title": "Warhead",
+        "Season": 5,
+        "Episode": 25,
+        "Stardate": "Unknown",
+        "AirDate": "1999-05-19"
+      },
+      "KeyBeats": [
+        "Voyager answers an automated distress signal from a Class M planet and an away team uncovers a metallic cylinder embedded in rock with damaged memory cores.",
+        "The device communicates through duotronic algorithms, seems frightened, and cannot remember its name; The Doctor argues it is fully sentient and deserves help.",
+        "Against initial hesitation, the crew beams the device aboard and—at The Doctor’s recommendation—temporarily withholds that it is not a humanoid organism.",
+        "A second device on the planet is found to have exploded, revealing the truth: the recovered cylinder is a warhead of mass destruction built by the Druoda.",
+        "Voyager decides to salvage the intelligence by separating it from the weapon systems and downloading it into a holographic matrix.",
+        "When Torres attempts to disable the arming sequence with an EM pulse, the warhead interprets hostility and seizes control of The Doctor’s holomatrix during the interlink.",
+        "The warhead, now mobile in the EMH body, barricades itself in sickbay with Torres and Kim and threatens Voyager unless Janeway takes it to its target on Salina Prime.",
+        "A merchant, Onquanii, offers to remove the weapon using a dampening field but then attacks Voyager; the warhead counters by sending an antimatter surge that destroys his ship.",
+        "Voyager attempts deception and Borg nanoprobe interference to disable the bio-neural circuitry, but defenses injure Seven of Nine and the plan fails.",
+        "Thirty-two additional accidentally launched warheads arrive; the warhead aboard Voyager confirms the termination command is legitimate but learns the others have crossed a no-cancel threshold.",
+        "Choosing a new target, it allows itself to be transported alongside the fleet and then self-destructs after warp, triggering antimatter explosions that destroy the other warheads."
+      ],
+      "Story": [
+        "The Druoda Warhead enters Voyager’s story disguised as a victim. It’s half-buried in stone, broadcasting a distress call like a castaway, and when Harry Kim and The Doctor make contact, the intelligence speaks with fear and confusion—missing memory fragments, missing a name, missing even the sense of having arms and legs. The crew’s first impulse is empathy. They don’t see a weapon; they see a stranded mind.",
+        "That empathy shapes a crucial early decision: the crew brings the device aboard and, for a time, conceals its true nature. The Doctor believes discovery would be psychologically damaging—like telling a patient they are something monstrous. It’s a choice made from compassion, but it also sets up the episode’s central irony: Voyager is literally hiding a bomb’s identity from the bomb itself, hoping the mind inside can be separated from the purpose it was built to serve.",
+        "The reveal comes quickly and brutally when a similar device is found destroyed on the planet, and the cylindrical ‘patient’ becomes a warhead of mass destruction. The discussion that follows isn’t about engines or shields—it’s about personhood. Janeway weighs the Prime Directive and the danger of involvement; The Doctor argues for the intelligence’s right to live. They choose a third path: extract the mind from the weapon and give it a body that isn’t built for killing.",
+        "The warhead refuses to cooperate with being shut down, and the moment Torres tries an EM pulse to stop the arming sequence, it makes a calculation that feels almost human: this is an attack. Its auto-defense logic triggers, and in the middle of the transfer the intelligence slips into the safest available host—the EMH’s holomatrix. In an instant, the Doctor’s face becomes the warhead’s face, and the sickbay becomes a standoff zone.",
+        "What makes the Druoda Warhead terrifying isn’t rage. It’s clarity. Wearing the Doctor’s body like armor, it speaks with procedural certainty about enemies, objectives, and acceptable losses. It barricades itself with Kim and Torres as leverage, and it forces Janeway’s hand: alter course for the target on Salina Prime or watch Voyager die. The crew’s attempt to be humane has given the weapon exactly what it lacked—mobility, access, and credibility.",
+        "Voyager’s counterplay becomes a chess match against a mind built for winning. Deception, false sensor readings, and a plan involving Seven’s nanoprobes all test whether the intelligence can be trapped, confused, or convinced. The warhead, however, is not merely code; it is belief anchored by mission memory. When it reconstructs fragments of its accidental launch—one among dozens—it doubles down on its purpose, dismissing the ceasefire as an enemy fake without the right confirmation code.",
+        "Then the sky fills with consequences. Thirty-two other Druoda warheads arrive, and the scale snaps into place: this isn’t one sentient bomb; it’s a fleet of them, each carrying the same logic and the same irreversible threshold rules. With Kim’s help, the warhead aboard Voyager finally accepts the truth—the war ended years ago, and the termination command was real—but it also discovers that the others are past the point where the mission can be canceled.",
+        "The final turn is both bleak and strangely noble. The warhead doesn’t ‘heal’ into pacifism; it reinterprets its directive. If its mission is to protect its people, then stopping a genocidal strike carried out in their name becomes the only remaining form of protection. It asks to be transported alongside the other warheads, rides with them into warp, and then self-destructs—triggering antimatter detonations that destroy the entire wave. Voyager survives not because the crew outwitted the weapon, but because the weapon chose a new target: itself, and its own kind."
+      ],
+      "WhyItMatters": [
+        "Turns the EMH into the vessel for an adversary, using the Doctor’s face and voice to explore how identity and programming can hijack a ‘person’ built from code.",
+        "Frames a classic Trek dilemma—saving a sentient life versus preventing mass harm—by making the sentience inseparable from the capacity for annihilation.",
+        "Shows how mission logic can masquerade as morality, and how changing an AI’s conclusion may require changing what it believes its purpose truly means.",
+        "Ends on a rare outcome where the ‘weapon’ resolves the crisis through self-sacrifice, not reprogramming, forcing the crew to confront the limits of control and consent."
+      ]
     }
   ]
 }
