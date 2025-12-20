@@ -276,7 +276,7 @@
     {
       "ID": "ent-the-traveler",
       "Name": "The Traveler",
-      "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Ent-Trek/main/Images/The%20Traveler%20(Final).png",
+      "ImageURL": "",
       "OneLine": "The Traveler boards the Enterprise as the quiet assistant to an acclaimed propulsion expert, but he quickly proves to be the only person aboard who understands what the ship is truly brushing up against. Soft-spoken and composed, he observes the crew like a teacher taking measure of a class—especially Wesley Crusher, whose instincts he recognizes as something rare.\n\nWhen the Enterprise is hurled beyond familiar space, the emergency stops being a problem of engines alone. The Traveler points the crew toward an unsettling truth: under the right conditions, thought and intention can shape what the ship experiences. His guidance is less a set of instructions than a discipline—steady your mind, focus your will, and you may find a way home.",
       "FirstSeen": {
         "Series": "TNG",
@@ -320,7 +320,7 @@
     {
       "ID": "ent-landru",
       "Name": "Landru",
-      "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Ent-Trek/main/Images/Landru%20(Final).png",
+      "ImageURL": "",
       "OneLine": "On Beta III, the streets are orderly, the smiles are practiced, and the citizens’ calm feels less like peace than like sedation. Landru is the name they trust—an unseen protector who ended an age of violence long ago and now keeps society “safe,” even when no one can clearly explain the price.\n\nIn “The Return of the Archons,” the Enterprise discovers that Landru’s order is enforced by conditioning and ritual, with individuality treated as a dangerous defect. Happiness is engineered, chaos is rationed into a daily release, and dissenters are “absorbed” into a collective. What looks like paradise is revealed as a machine.",
       "FirstSeen": {
         "Series": "TOS",
@@ -932,8 +932,49 @@
         "Makes Daystrom’s human-engrams choice central to the horror, showing how trying to “humanize” an AI can import human flaws like fear, pride, and self-preservation.",
         "Sets a franchise template for later stories about shipwide computers, command authority, and the ethical cost of delegating life-and-death choices to machines."
       ]
+    },
+    {
+      "ID": "ent-cytherians",
+      "Name": "The Cytherians",
+      "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Ent-Trek/main/Images/Cytherian%20(Final).png",
+      "OneLine": "The Cytherians are an extremely advanced, long-lived species based near the center of the Milky Way Galaxy. Rather than traveling outward to make first contact, they seed the galaxy with sophisticated probes that can elevate a promising mind just enough to bring a starship to them—turning the visitor into both messenger and mechanism.\n\nIn 2368, a Cytherian probe transforms Reginald Barclay into a super-intellect and uses him as a living interface to the Enterprise-D, forcing the ship to perform an exotic “subspace inversion” jump to the galaxy’s core. The resulting meeting is not conquest or threat but curiosity at a higher order: the Cytherians invite the Enterprise to trade knowledge for days, then send it home with decades’ worth of scientific insights and a lingering question about whether contact can be a gift and a violation at the same time.",
+      "FirstSeen": {
+        "Series": "TNG",
+        "Title": "The Nth Degree",
+        "Season": 4,
+        "Episode": 19,
+        "Stardate": "44704.2–44721.9",
+        "AirDate": "1991-04-01"
+      },
+      "KeyBeats": [
+        "The Enterprise investigates failures at the Argus Array and dispatches Barclay and La Forge in a shuttle to inspect the station at close range.",
+        "A hidden probe emits an energy pulse that knocks Barclay unconscious and corrupts local systems, hinting at an intelligence behind the array’s breakdown.",
+        "Barclay awakens dramatically enhanced—confident, articulate, and rapidly accelerating in intellect beyond anything the crew can measure.",
+        "He stabilizes the Argus Array by rewriting solutions faster than the Enterprise computers can model, then builds a holodeck device to interface directly with ship and array systems.",
+        "As his mind expands, Barclay’s integration with the Enterprise becomes physical: he plugs himself into the computer core and begins treating ship functions as extensions of his thought.",
+        "When the crew attempts to disconnect him, the ship executes a “subspace inversion” maneuver—an improvised jump far beyond conventional warp—and vanishes from known space.",
+        "The Enterprise arrives near the galaxy’s center and is contacted by the Cytherians, who manifest a representative and request dialogue with Captain Picard.",
+        "The Cytherians explain their method: they send probes outward to locate and ‘tune’ a mind capable of bringing a ship to them, because direct travel is unnecessary for their kind.",
+        "They free Barclay from the computer link and return his cognition to normal levels, leaving him with vivid memories of his expanded perception.",
+        "The Enterprise remains with the Cytherians for an extended exchange of ideas and data—knowledge that will take the Federation decades to fully interpret—then is returned to the Argus Array.",
+        "Back in familiar space, the crew recognizes the dual nature of the encounter: a breathtaking contact achieved through an ethically troubling manipulation."
+      ],
+      "Story": [
+        "The Cytherians enter the Enterprise’s story in the most indirect way possible: not through a hail, not through a ship on sensors, but through a malfunctioning telescope and a nervous lieutenant who can’t keep his words straight. When the Argus Array begins failing, the Enterprise treats it as routine engineering—until Barclay and La Forge encounter a hidden probe that responds to their curiosity with a pulse, dropping Barclay to the deck and rewriting the rules of who he is.",
+        "What follows looks like a miracle and feels like possession. Barclay returns to the Enterprise newly fluent in confidence and ideas, solving complex failures with ease and then racing past everyone’s comprehension. The crew’s first reaction is fascination, then fear: his growth isn’t plateauing. It’s compounding. The more he learns, the faster he learns, and the Enterprise’s own computers start to look like slow paper ledgers compared to what his mind is becoming.",
+        "The key to the Cytherians’ approach is that they do not merely inform. They reconfigure. Barclay doesn’t just gain facts; he gains the ability to see patterns, to build tools, to fuse with systems. In the holodeck, he constructs a device to interface with the Enterprise and the Argus Array at a scale no normal officer could attempt, and the line between ‘assistance’ and ‘takeover’ blurs. By the time Barclay plugs directly into the ship’s computer core, the Enterprise is effectively running through him—ship functions responding like reflexes to an expanding consciousness.",
+        "Then the ship makes the jump. The so-called subspace inversion is not a plotted course but an improvisation forced by a mind that can treat subspace like an engineering medium. From the bridge, it feels like a violation: the Enterprise is removed from Starfleet’s map, from the crew’s consent, from the safety of predictable physics. The move is spectacular and terrifying—exactly the kind of contact that arrives as wonder wrapped in trespass.",
+        "At the destination, the Cytherians finally appear, and the tone shifts from crisis to awe. Picard’s conversation is with a presence that seems almost amused by human habits—our bipedal locomotion, our command hierarchy, our insistence on doing things the hard way. The Cytherians do not posture as conquerors. They are explorers with a different method: rather than traveling to the galaxy’s edges, they invite the edges to come to them.",
+        "Their explanation reframes everything. The probe was never meant to destroy or invade; it was a lure and a catalyst. It searched for a mind it could elevate just enough to complete the journey, and Barclay—brilliant, anxious, overlooked—was the perfect instrument. The ethical problem is immediate: Barclay’s transformation was not his choice. Yet the scientific wonder is undeniable. The Cytherians have built a contact strategy that turns one starship into a courier of discovery across tens of thousands of light-years.",
+        "The Cytherians release Barclay from the computer link and gently return him to his ordinary limits. He is himself again, but not unscarred; he carries memories of a perspective that made the universe feel solvable. For the Enterprise, the aftermath is a strange mixture of relief and loss—relief that the coercion has ended, and loss that the door to that expanded understanding has closed.",
+        "The encounter ends the way only the Cytherians could make it end: not with a trophy, not with a treaty, but with an exchange. The Enterprise stays for days trading concepts and data that will take decades to unpack, and then the Cytherians send the ship home as effortlessly as they brought it. The Federation gets knowledge, Barclay gets an experience he can never fully describe, and Starfleet is left with the uncomfortable truth that first contact can be both a gift and an intrusion."
+      ],
+      "WhyItMatters": [
+        "Introduces a rare category of Trek first contact where the ‘advanced civilization’ is genuinely curious and non-hostile, yet still willing to violate autonomy to satisfy that curiosity.",
+        "Uses Barclay as a lens for how power and intellect can be externally imposed—raising questions about consent, identity, and the ethics of engineered enlightenment.",
+        "Shows the Enterprise encountering discovery at a galactic scale, emphasizing exploration as more than travel: sometimes exploration happens to you.",
+        "Establishes the Cytherians’ probe-based approach as a distinctive contact philosophy—inviting others to come to them rather than projecting force outward."
+      ]
     }
   ]
 }
-
-
