@@ -276,7 +276,7 @@
     {
       "ID": "ent-the-traveler",
       "Name": "The Traveler",
-      "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Ent-Trek/main/Images/The%20Traveler%20(Final).png",
+      "ImageURL": "",
       "OneLine": "The Traveler boards the Enterprise as the quiet assistant to an acclaimed propulsion expert, but he quickly proves to be the only person aboard who understands what the ship is truly brushing up against. Soft-spoken and composed, he observes the crew like a teacher taking measure of a class—especially Wesley Crusher, whose instincts he recognizes as something rare.\n\nWhen the Enterprise is hurled beyond familiar space, the emergency stops being a problem of engines alone. The Traveler points the crew toward an unsettling truth: under the right conditions, thought and intention can shape what the ship experiences. His guidance is less a set of instructions than a discipline—steady your mind, focus your will, and you may find a way home.",
       "FirstSeen": {
         "Series": "TNG",
@@ -320,7 +320,7 @@
     {
       "ID": "ent-landru",
       "Name": "Landru",
-      "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Ent-Trek/main/Images/Landru%20(Final).png",
+      "ImageURL": "",
       "OneLine": "On Beta III, the streets are orderly, the smiles are practiced, and the citizens’ calm feels less like peace than like sedation. Landru is the name they trust—an unseen protector who ended an age of violence long ago and now keeps society “safe,” even when no one can clearly explain the price.\n\nIn “The Return of the Archons,” the Enterprise discovers that Landru’s order is enforced by conditioning and ritual, with individuality treated as a dangerous defect. Happiness is engineered, chaos is rationed into a daily release, and dissenters are “absorbed” into a collective. What looks like paradise is revealed as a machine.",
       "FirstSeen": {
         "Series": "TOS",
@@ -631,94 +631,45 @@
       ]
     },
     {
-      "ID": "ent-suspiria",
-      "Name": "Suspiria",
-      "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Ent-Trek/main/Images/Suspiria%20(Final).png",
-      "OneLine": "Suspiria is a Nacene entity—the Caretaker’s mate—who abandoned the original array long before Voyager’s arrival and founded a second sanctuary. From within a subspace layer called Exosia, she maintained a powerful telepathic presence over a splinter community of Ocampa living aboard her smaller array, guiding them for centuries and accelerating their psychokinetic development.\n\nWhen Voyager traces a renewed sporocystian-energy signal to this refuge, Suspiria interprets the ship as the instrument of her mate’s death. Grief hardens into vengeance, and her near-godlike abilities collide with Janeway’s refusal to trade lives for a way home—forcing Kes to decide what “ascension” costs, and proving that Nacene power can nurture, control, or destroy with the same effortless force.",
-      "FirstSeen": {
-        "Series": "VOY",
-        "Title": "Cold Fire",
-        "Season": 2,
-        "Episode": 10,
-        "Stardate": "49164.8",
-        "AirDate": "1995-11-13"
-      },
-      "KeyBeats": [
-        "The Caretaker’s remains begin resonating again, reacting to a distant sporocystian-energy source rather than “coming back to life.”",
-        "Voyager follows the signal and discovers a smaller Caretaker-like array housing a large Ocampa colony.",
-        "The station fires immediately; an Ocampa appears only long enough to warn Voyager away, then cuts the channel.",
-        "Janeway asks Kes to serve as liaison; Ocampa leader Tanis boards Voyager but claims the ship’s reputation precedes it.",
-        "Tanis tells Kes the female Nacene—Suspiria—has protected his people for centuries and pushed their mental abilities far beyond Kes’s experience.",
-        "Tanis demonstrates heightened Ocampan power and hints that training could extend lifespan and unlock deeper telepathic/psychokinetic control.",
-        "Tuvok, wary of being at another Nacene’s mercy, develops a paralysis-inducing toxin as a contingency that won’t kill the entity.",
-        "Kes trains under Tanis, learning telekinesis and thermal manipulation; a lesson nearly turns fatal when her focus slips and she overheats Tuvok’s blood.",
-        "Tanis’s rhetoric grows darker—encouraging superiority and emotional detachment—culminating in Kes “bringing the fire” and scorching the airponics bay.",
-        "Tanis tempts Kes with the promise of being welcomed by Suspiria and, eventually, invited into Exosia—a realm of “pure thought” beyond normal life.",
-        "Suspiria arrives aboard Voyager in a deceptively benign form and attacks: crewmembers are immobilized and the ship’s structure begins destabilizing.",
-        "Kes turns Tanis’s mental link against him to incapacitate Suspiria long enough for Janeway to deploy the prepared toxin; spared rather than executed, Suspiria retreats to Exosia."
-      ],
-      "Story": [
-        "Voyager’s first real miracle in the Delta Quadrant was also its first trauma: the Caretaker’s vast power, its motives, and the way the crew’s fate could be rewritten without consent. When those same remains suddenly resonate months later—shaking, flaring, briefly reading as life—Janeway recognizes the pattern immediately. Whatever is answering the signal is alive, Nacene, and potentially capable of the one thing every officer tries not to say out loud anymore: sending them home.",
-        "The trail leads to a second array that feels like an echo of the first—smaller, but unmistakably related. Voyager’s hail is met with silence, then weapons fire. The encounter is sobering: even before introductions, this place has decided Voyager is a threat. A single Ocampa appears on the viewscreen just long enough to deliver a warning to leave, as if any conversation is already too dangerous to risk.",
-        "Janeway turns to Kes, betting that shared origin can do what starship diplomacy can’t. Tanis, the colony’s leader, comes aboard with a calm that reads as confidence—and with suspicion that feels rehearsed. He speaks of rumors: the Caretaker’s death, Kazon conflict, and a story that casts Voyager as the spark that burned the region. His real focus, though, is Kes. He questions her upbringing and listens for the limits she thinks are inevitable.",
-        "Tanis then offers the intoxicating truth Kes has dreamed about: Ocampa don’t have to be what the Caretaker left behind. Under Suspiria’s guidance, his people have stretched their lifespan far past the “nine years” Kes believed was fixed, and they cultivate abilities Kes has only brushed against. He proves it not with words, but with effortless force—plants blooming at a thought, systems responding like they’re part of him—leaving Kes exhilarated and unsteady in equal measure.",
-        "On Voyager, that excitement collides with caution. Tuvok remembers what it meant to stand inside a Nacene’s reach and be helpless to stop it, so he and the Doctor prepare a last resort: a toxin engineered to paralyze an entity long enough to end a confrontation without killing. It is a grim kind of hope—planning to meet a god with a syringe—but it’s the only leverage a starship can build against a being that bends physics as easily as breath.",
-        "Kes commits to training, and for a while it looks like the best version of herself is finally within reach. She moves objects, manipulates heat, and senses the edges of a mind-to-mind universe she never knew existed. But power arrives faster than wisdom. In a demonstration for Tuvok, Kes’s concentration slips and her thermal focus latches onto the wrong target, overheating his blood so violently that he collapses in agony. The lesson is brutal: what Tanis is teaching her can save lives—or end them in seconds.",
-        "Tanis reframes the danger not as a warning, but as a doorway. He encourages Kes to think beyond ordinary empathy, to see non-telepaths as lesser, to let emotion become fuel. The temptation peaks in the airponics bay as he pushes her to “bring the fire” to her plants—until the exercise turns into devastation and the bay is scorched. Kes is horrified by what she’s done; Tanis is pleased, as if cruelty is simply proof of progress.",
-        "The real trap becomes clear when Tanis describes the final reward: if Kes submits fully, Suspiria will embrace her—and, someday, allow her to join Exosia, the subspace layer where Suspiria resides as pure energy and pure thought. It’s framed as ascension, but it sounds like surrender: leaving behind the messy bonds of Voyager for a life defined by Suspiria’s permission. Kes asks for time, but the choice is already being made around her.",
-        "Suspiria’s arrival strips away every pretense of benevolence. She manifests aboard Voyager in an innocuous form, then turns the ship into a theater of punishment—crewmembers pinned helplessly, systems destabilizing, the fabric of the vessel itself starting to come apart as if matter is negotiable. Janeway pleads the truth: Voyager didn’t kill her mate; the Caretaker chose his end. Suspiria’s grief refuses nuance, and her power makes argument feel irrelevant.",
-        "Kes stops the execution the only way she can—through the very mental architecture that binds Suspiria to the Ocampa. By striking Tanis psychically, she forces pain through their link and back into Suspiria, stunning the entity long enough for Janeway to act. The toxin doesn’t kill; it incapacitates. And in that final, decisive choice—mercy over vengeance—Janeway offers Suspiria a way to step back from the edge. Suspiria withdraws to Exosia, leaving Voyager still stranded, but alive, and leaving Kes with a clearer understanding that becoming “more” is only worth it if she remains herself."
-      ],
-      "WhyItMatters": [
-        "Establishes a second Nacene as a credible route home—and demonstrates that the biggest obstacle isn’t engineering, but motive, grief, and trust.",
-        "Deepens Ocampan lore by revealing a long-lived offshoot community shaped by sustained Nacene intervention rather than isolation and dependency.",
-        "Marks a major turning point for Kes: her abilities shift from latent talent to high-stakes power with real consequences for others.",
-        "Introduces Exosia as the conceptual endgame of Tanis’s path—‘transcendence’ framed as leaving behind ordinary life and relationships.",
-        "Reinforces a core Voyager tension: overwhelming caretaking power can become control, and salvation can look like captivity when choice is constrained."
-      ]
-    },
-    {
-      "ID": "ent-doomsday-machine",
-      "Name": "The Doomsday Machine",
-      "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Ent-Trek/main/Images/Doomsday%20Machine%20(Final).png",
-      "OneLine": "The Doomsday Machine—often called the “planet killer”—is a colossal, conical automated weapon of unknown origin that can annihilate whole worlds. It tears matter apart with a powerful cutting beam and draws ships and planetary debris toward a gaping forward maw, consuming what it destroys to keep itself fueled and self-sustaining.\n\nWhen the Enterprise encounters it alongside the crippled USS Constellation, the machine’s mechanical appetite collides with human catastrophe: Commodore Matt Decker, the Constellation’s lone survivor, is consumed by guilt and obsession. The episode’s central conflict becomes a race to stop an unstoppable device before it reaches inhabited systems—and to do so without letting grief hijack command judgment.",
+      "ID": "ent-organians",
+      "Name": "The Organians",
+      "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Ent-Trek/main/Images/Organians%20(Final).png",
+      "OneLine": "The Organians are an ancient, extremely advanced civilization native to the planet Organia. Appearing at first as humble, agrarian villagers, they are in fact incorporeal beings who can manipulate matter and energy on a vast scale, and who view violence as a primitive failure of evolution.\n\nWhen Federation–Klingon tensions erupt over Organia’s strategic position, the Organians reveal themselves and enforce the Treaty of Organia, ending hostilities by making violent action physically impossible. Their intervention stops a war neither side is willing to abandon—and leaves both Kirk and Kor confronting the unsettling idea that peace can be mandated by a power so far beyond them that consent becomes irrelevant.",
       "FirstSeen": {
         "Series": "TOS",
-        "Title": "The Doomsday Machine",
-        "Season": 2,
-        "Episode": 6,
-        "Stardate": "4202.9",
-        "AirDate": "1967-10-20"
+        "Title": "Errand of Mercy",
+        "Season": 1,
+        "Episode": 26,
+        "Stardate": "3198.4",
+        "AirDate": "1967-03-23"
       },
       "KeyBeats": [
-        "Responding to a garbled distress call, the Enterprise arrives at system L-370 and finds its planets reduced to vast fields of rubble, as if “eaten” on an industrial scale.",
-        "The Enterprise locates the USS Constellation drifting crippled, heavily damaged, and largely without power, and boards to investigate.",
-        "Commodore Matt Decker is found alive but psychologically broken, insisting his crew is “on the third planet” even though the planet is gone.",
-        "Decker describes a massive conical machine that destroyed the Constellation’s crew and devoured the planet; Spock concludes it is an automated planet-smashing weapon that feeds on debris to remain self-sustaining.",
-        "The doomsday device appears and attacks; its beam slices through matter while its maw and pulling forces threaten to draw ships into its forward aperture.",
-        "With Enterprise systems strained and conventional fire proving ineffective, Decker pushes for reckless pursuit and attempts to reassert command by rank.",
-        "Kirk relieves Decker, but Decker refuses to accept it; the command conflict becomes a second crisis on the bridge as the machine closes again.",
-        "Decker steals a shuttlecraft and makes a suicidal ramming run into the weapon’s maw, failing to stop it and dying in the attempt.",
-        "Spock assesses the machine’s next trajectory as a populated target, turning the situation into a countdown before it reaches inhabited worlds.",
-        "Kirk and Scotty decide to turn the Constellation itself into a delivery system: overload its engines and drive it into the machine’s maw to detonate from within.",
-        "Kirk pilots the crippled Constellation directly into the aperture while Spock fights to stabilize the Enterprise’s transporter for an emergency beam-out.",
-        "At the last possible moment, Kirk is transported back; the Constellation’s overloaded engines detonate inside the machine, destroying it and saving the threatened systems."
+        "Starfleet orders the Enterprise to Organia, a strategically vital world on the Federation–Klingon frontier, to prevent Klingon control.",
+        "Kirk and Spock find a seemingly pre-industrial society that refuses evacuation, fortification, or any preparation for war.",
+        "Spock concludes the Organians’ passivity is cultural rather than ignorance, and that they will not fight even to save themselves.",
+        "Klingon forces under Kor arrive and occupy Organia with minimal resistance, turning the planet into a test of wills between Kirk and Kor.",
+        "Kirk attempts underground resistance and sabotage to slow the occupation, but the Organians repeatedly refuse to cooperate and quietly undermine his plans.",
+        "Kor tightens control and escalates interrogation tactics, forcing Kirk and Spock into greater risk as they try to protect the population.",
+        "Ayelborne and other leaders reveal that the Organians are not helpless villagers but vastly powerful non-corporeal beings.",
+        "The Organians halt the conflict by making weapons and controls too hot to touch and by disabling aggressive actions, stopping battles in space and on the ground.",
+        "They impose the Treaty of Organia on both the Federation and the Klingon Empire, ending the immediate war and enforcing a ceasefire.",
+        "Kirk and Kor, suddenly alike in frustration, leave with the unsettling realization that peace has been mandated rather than chosen."
       ],
       "Story": [
-        "The Enterprise answers a fractured distress signal and drops into a system that doesn’t make sense: L-370 had multiple planets on the charts, but now the ship’s viewscreens fill with nothing but drifting rock and dust. The star still burns normally, which makes the devastation more unsettling. This isn’t a natural catastrophe—it looks like the careful aftermath of something that dismantles worlds and moves on.",
-        "Scanning the debris reveals a familiar silhouette: another Constitution-class starship, the USS Constellation, hanging in space like a carcass. Kirk leads a boarding party into dim corridors and ruined compartments, finding systems torn open by violence rather than accident. In auxiliary control they discover the sole survivor, Commodore Matt Decker. He is alive, but his mind is stuck in the moment before the disaster, talking about crew assignments and an away team on a planet that no longer exists.",
-        "When the truth lands, Decker’s grief shifts into a kind of mission-obsessed fury. He tries to force the universe back into a shape he can endure by turning everything into one objective: destroy the thing that killed his people. Spock’s analysis strips the horror down to engineering: the attacker is an automated weapon that smashes planets and consumes the debris as fuel, making it functionally self-sustaining as long as there are worlds to feed on. That clinical conclusion raises the stakes—this isn’t a predator with hunger or fear; it is a machine with a purpose.",
-        "The weapon arrives like a nightmare made physical: a gigantic armored cone with a forward maw that reads as both engine and mouth. It attacks without hesitation. Its beam carves through matter, and the Enterprise is forced into evasive maneuvers as pulling forces tug the ship toward the aperture. The encounter plays out as a brutal lesson in asymmetry—Starfleet is built for diplomacy and defense, while this device is built for extermination on a planetary scale.",
-        "Decker’s presence turns the bridge into a pressure cooker. He has rank, trauma, and a fixation, and he tries to wield all three as authority. Kirk and Spock are forced into a tense balancing act: regulations matter, but so does keeping the ship intact long enough to protect millions of lives. Decker’s inability to adapt becomes dangerous—his decisions are driven by guilt and rage rather than tactics—and the crew begins to grasp that the Enterprise may be fighting two enemies at once.",
-        "When Decker is finally removed from command, he refuses to live with powerlessness. He steals a shuttlecraft and makes a suicidal run into the machine’s maw, convinced that sacrifice can replace leverage. The failure is immediate and merciless: the weapon continues as if nothing happened. Decker’s death doesn’t weaken it; it only confirms how little the machine cares about bravery, pleading, or human meaning.",
-        "Kirk’s counter-plan is colder, but it is built on the only advantage Starfleet has left: ingenuity. If the machine can’t be cracked from the outside, the explosion has to happen on the inside. The crippled Constellation becomes a guided bomb. Scotty rewires what he can, accepting that the ship’s wrecked state makes the mission a tightrope walk. Every step is improvised under fire, with the Enterprise damaged and time running out before the weapon reaches a populated system.",
-        "Kirk pilots the Constellation straight into the maw, holding course through turbulence and partial controls while Spock fights to keep the Enterprise’s transporter stable enough to pull him back at the final seconds. The climax hinges on timing and nerve: Kirk waits until the Constellation is deep enough to guarantee the blast will matter, then beams out at the edge of possibility. The overloaded engines detonate inside the doomsday device, destroying it from within—the only place it can be made vulnerable."
+        "The Enterprise is dispatched to Organia with an order that sounds straightforward but carries enormous consequence: keep the Klingons from claiming a world that sits like a keystone on the border. Kirk approaches it as a familiar kind of crisis—secure the planet, build a defense, and, if necessary, fight for it. What he finds instead is a society that refuses even the vocabulary of war.",
+        "On the surface, Organia appears almost quaint: small villages, simple tools, and leaders who speak softly and act as if urgency is an impolite fiction. Kirk and Spock try every angle—warnings, negotiations, demonstrations of danger—but the Organians won’t evacuate and won’t arm themselves. Their calm is not bravery. It’s something stranger: a total rejection of violence as an option, even when the cost is obvious.",
+        "The Klingons arrive under Kor, and the ideological clash becomes immediate. Kor is not interested in persuasion; he is interested in control. The occupation is efficient because there is no resistance—at least not from the Organians. Kirk’s frustration sharpens into determination, and he begins building a covert network, convinced that a little pressure and a few good examples will wake the planet up.",
+        "But every time Kirk tries to ignite defiance, the Organians smother it—not with fear, but with refusal. They hide people he wants to recruit, misdirect his movements, and treat sabotage like childish misbehavior. The more Kirk pushes, the more isolated he becomes, caught between Starfleet expectations and a local population that seems almost willing to be conquered.",
+        "Kor’s methods escalate as he senses Kirk’s hand behind the unrest. The conflict narrows into a psychological duel: Kirk trying to outmaneuver an occupying governor while keeping his own ethics intact, Kor trying to break the Federation’s resolve without turning the planet into rubble. The Organians remain present in every scene, watching like spectators at a ritual they do not participate in.",
+        "The turning point comes when the mask drops. Ayelborne and the others reveal that Organia’s apparent simplicity is a deliberate disguise and that the Organians are not helpless at all. They are incorporeal beings with an effortless command of matter and energy—so far beyond both the Federation and the Klingon Empire that the entire occupation becomes, in hindsight, an argument staged on a child’s gameboard.",
+        "With casual certainty, the Organians end the war by removing the ability to wage it. Weapons and control surfaces become unbearably hot, aggression is physically checked, and battles simply cannot proceed. It is not negotiation; it is enforcement. The Treaty of Organia follows—peace mandated by a third party powerful enough to make disobedience futile.",
+        "Kirk’s final discomfort is the episode’s sting. He wanted to save Organia, but he also wanted the right to choose how. Kor wanted victory, but he also wanted the dignity of earning it. The Organians deny both, insisting that imposed peace is preferable to chosen slaughter. The Enterprise leaves with the uneasy implication that the Federation’s moral certainty has been judged—by beings who consider both sides equally immature."
       ],
       "WhyItMatters": [
-        "Codifies one of Trek’s most enduring “unstoppable automated weapon” archetypes: a device built to erase civilizations without negotiation, remorse, or strategic hesitation.",
-        "Uses Commodore Decker to explore the cost of command—how grief and guilt can hollow out judgment and turn a decorated officer into a secondary emergency.",
-        "Showcases Starfleet’s defining advantage when outgunned: engineering improvisation and tactical problem-solving that reframes the battlefield rather than matching raw force.",
-        "Sets a high-water mark for TOS tension and stakes, with a threat that extends beyond the Enterprise to inhabited worlds and the fragile assumptions of safe exploration."
+        "Introduces the Organians as one of Trek’s defining examples of a truly advanced civilization: non-corporeal, immensely powerful, and culturally beyond violence.",
+        "Creates the Treaty of Organia, a major political turning point that abruptly ends the immediate Federation–Klingon war and reshapes the balance on the frontier.",
+        "Highlights a central Trek tension: whether peace is still ethical when it is enforced by overwhelming power rather than freely chosen by those involved.",
+        "Debuts Kor and frames early Federation–Klingon rivalry through ideology and psychology, not just ship-to-ship combat."
       ]
     }
   ]
