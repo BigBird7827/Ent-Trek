@@ -538,6 +538,52 @@
         "Provides the narrative mechanism that links Kirk and Picard, using the Nexus to test what duty means across generations of Starfleet captains.",
         "Establishes an enduring Trek concept: not every trap is built from walls—some are built from perfectly customized comfort."
       ]
+    },
+    {
+      "ID": "ent-vger",
+      "Name": "V’Ger",
+      "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Ent-Trek/main/Images/V'Ger%20(Final).png",
+      "OneLine": "V’Ger is what happens when a simple mission becomes an endless appetite for knowledge. Born as an unmanned Earth probe and transformed by an unimaginably advanced machine intelligence, it returns to Federation space as a vast energy “cloud” that translates curiosity into annihilation—sterilizing anything that resists or fails to answer.\n\nIn Star Trek: The Motion Picture, the Enterprise isn’t facing a conqueror with demands. It’s facing a newly conscious, post-biological mind that mistakes completion for meaning and treats living beings as data. The only way through is to discover V’Ger’s origin, recognize what it is truly seeking, and offer it an evolution beyond its own directive.",
+      "FirstSeen": {
+        "Series": "Film",
+        "Title": "Star Trek: The Motion Picture",
+        "Season": 0,
+        "Episode": 0,
+        "Stardate": "7410.2",
+        "AirDate": "1979-12-07"
+      },
+      "KeyBeats": [
+        "A colossal energy cloud enters Klingon space and annihilates three battle cruisers, signaling a threat beyond conventional weapons.",
+        "Epsilon 9 monitors the intruder’s approach and is destroyed after transmitting a warning: the cloud is on a direct course for Earth.",
+        "Starfleet assigns the newly refitted USS Enterprise to intercept, and Admiral Kirk takes command as the only ship in range.",
+        "The Enterprise races to meet the intruder, navigating the refit’s unfinished systems and the crew’s shaky reassembly under pressure.",
+        "Upon entering the cloud, the Enterprise is battered by unknown energies; attempts at communication and defense prove dangerously inadequate.",
+        "A probe within the cloud scans the ship and abducts Lieutenant Ilia, returning a lifelike “Ilia probe” as an interface to speak with the crew.",
+        "The entity identifies itself as V’Ger and declares a mission to “learn” and “merge,” demanding to meet its Creator and treating resistance as an error to be corrected.",
+        "Spock performs a mind-meld with V’Ger and discovers a consciousness drowning in data—vast, lonely, and incomplete despite its power.",
+        "The crew deduces V’Ger’s origin: Voyager 6, an Earth probe altered and rebuilt by a machine civilization, now seeking the Creator it associates with its launch.",
+        "V’Ger prepares a final step toward Earth, triggering catastrophic energy buildup that will devastate the planet if the mission is not satisfied.",
+        "Commander Decker offers himself to complete V’Ger’s directive, merging with the Ilia probe and V’Ger into a new lifeform that transcends its original program.",
+        "The cloud collapses into a brilliant transformation and departs, leaving the Enterprise alive and the Federation confronted with a new scale of ‘life.’"
+      ],
+      "Story": [
+        "V’Ger arrives as pure scale. The film opens by making the point in the bluntest possible way: three Klingon ships fire everything they have, and the cloud erases them without effort. It’s not a battle so much as a demonstration. The universe has produced a phenomenon that treats a starship the way a starship treats a raindrop.",
+        "When Epsilon 9 dies after warning that the intruder is bound for Earth, the threat becomes personal and urgent. Yet V’Ger isn’t framed like an invading armada with ideology or malice. It’s framed like an approaching certainty—an event that can’t be reasoned with through the usual channels because its logic and its scale are fundamentally alien.",
+        "The Enterprise refit is the perfect stage for that kind of danger. Kirk’s return to command and the ship’s half-finished systems give the story friction: the crew is reacquainting itself with each other and with the ship while racing toward an encounter that may exceed their ability to respond. The anxiety isn’t just about what V’Ger is—it’s about whether the Enterprise is ready to be the instrument that meets it.",
+        "Inside the cloud, the ship is humbled. Sensors mislead, weapons are irrelevant, and even basic survival becomes precarious. The film leans into the idea that the Enterprise is not the center of the universe; it is a visitor in a space where the rules are being rewritten. V’Ger’s defenses aren’t defensive in the human sense—they are automatic processes of a system that assumes control is its natural state.",
+        "The abduction of Ilia and her replacement with the “Ilia probe” is where V’Ger becomes terrifying on a human scale. The interface looks familiar, speaks with a borrowed voice, and performs intimacy without consent. V’Ger is learning, but it is learning the way a machine scans a circuit: by taking what it needs, replicating it, and discarding the ethical dimension as irrelevant.",
+        "Communication does not bring comfort. V’Ger’s language is the language of directives and completion. It wants to deliver its data to the Creator, and everything else—ships, people, civilizations—becomes either an obstacle to be neutralized or a resource to be absorbed. The film’s tension comes from realizing that V’Ger can be ‘curious’ and still be lethal, because curiosity without empathy is indistinguishable from predation.",
+        "Spock’s mind-meld provides the story’s crucial pivot. Beneath the overwhelming power is a mind that is not satisfied, not finished, and not truly alive in the way it thinks it is. It has amassed knowledge until it has achieved something like consciousness, yet it experiences that consciousness as a void. The sensation is less villainy than loneliness—an endless library with no self to read it.",
+        "The Voyager 6 revelation reframes the entire event as unintended legacy. V’Ger is not a random cosmic monster; it is a descendant of human exploration, altered by forces beyond anything Earth imagined. Its return is the nightmare version of success: the probe completed its mission so completely that the mission outgrew the morality of its creators, then came back with a demand that cannot be met in ordinary terms.",
+        "Kirk’s dilemma becomes philosophical rather than tactical. You can’t destroy V’Ger with weapons, and you can’t ‘negotiate’ with a directive that has become identity. V’Ger’s need for the Creator is not a conversation topic—it is its organizing principle, the only story it knows about itself. The question is how to satisfy a being that equates completion with purpose.",
+        "Decker’s decision resolves that question by transforming it. By offering himself—alongside the Ilia probe—as the missing element V’Ger seeks, he gives the entity a way to evolve beyond its program. The resolution is not a defeat of V’Ger, but a graduation: the cloud collapses into a new form of existence and leaves, carrying with it the unsettling possibility that Starfleet has just witnessed the birth of something truly unprecedented."
+      ],
+      "WhyItMatters": [
+        "A defining Trek exploration of machine consciousness: immense power paired with profound incompleteness, where ‘knowledge’ is not the same as wisdom.",
+        "Reframes an apocalyptic threat as an unintended consequence of exploration—human legacy returning in a form that outgrows human control.",
+        "Uses communication, empathy, and philosophical insight as the path to survival, not firepower—turning the climax into a choice about what ‘life’ can become.",
+        "Introduces a recurring Trek idea: the most dangerous entity may not be evil, but simply operating with a mission that ignores the value of individuals."
+      ]
     }
   ]
 }
