@@ -714,6 +714,48 @@
         "Shows how mission logic can masquerade as morality, and how changing an AI’s conclusion may require changing what it believes its purpose truly means.",
         "Ends on a rare outcome where the ‘weapon’ resolves the crisis through self-sacrifice, not reprogramming, forcing the crew to confront the limits of control and consent."
       ]
+    },
+    {
+      "ID": "ent-space-amoeba",
+      "Name": "The Space Amoeba",
+      "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Ent-Trek/main/Images/Ameoba%20(Final).png",
+      "OneLine": "The space amoeba is a vast, space-dwelling, single-celled organism of unknown origin, wrapped in a negative-energy field that drains power and proves toxic to humanoid life. Enormous on a planetary scale, it leaves behind a “zone of darkness,” disrupts sensors, and can render starships helpless simply by feeding on their energy.\n\nIn 2268, the Enterprise encounters the amoeba after the all-Vulcan USS Intrepid and an entire inhabited world are found wiped out. The crisis escalates when the creature is discovered to be nearing reproduction by cell division, raising the terrifying prospect of multiple power-devouring organisms spreading across the galaxy.",
+      "FirstSeen": {
+        "Series": "TOS",
+        "Title": "The Immunity Syndrome",
+        "Season": 2,
+        "Episode": 19,
+        "Stardate": "4307.1",
+        "AirDate": "1968-01-19"
+      },
+      "KeyBeats": [
+        "Starfleet loses contact with the all-Vulcan USS Intrepid; Spock experiences a sudden psychic shock as the crew dies.",
+        "The Enterprise diverts and finds a system where an inhabited planet has been reduced to lifeless fragments, as if “consumed.”",
+        "Sensors detect a growing “zone of darkness” and a field of negative energy that interferes with ship systems and threatens crew health.",
+        "The Enterprise is attacked indirectly as power drains and control becomes sluggish, revealing an enormous, living presence in space.",
+        "Spock and McCoy clash over risk and necessity: unmanned probes can’t gather enough information to stop the organism in time.",
+        "The creature is identified as a gigantic amoeba-like single cell with protoplasm, membrane layers, and a central nucleus.",
+        "Spock determines the organism is close to reproducing by cell division, turning one threat into a potential galaxy-wide catastrophe.",
+        "Kirk is forced to choose a pilot for a near-suicide mission; Spock takes a shuttlecraft inside the organism to reach the nucleus.",
+        "Spock places a probe/warhead at point-blank range near the nucleus and transmits the final targeting information under heavy stress.",
+        "The Enterprise detonates an antimatter charge into the nucleus, destroying the organism while barely escaping the blast and energy backlash."
+      ],
+      "Story": [
+        "The Enterprise is thrown off course by a mystery that arrives through Spock rather than sensors. Starfleet has lost contact with the USS Intrepid, an all-Vulcan vessel, and as the Enterprise closes in, Spock suddenly staggers—overwhelmed by a wave of death he cannot explain. It’s one of the rare moments when Trek treats space as genuinely alien: something enormous has killed an entire crew so completely that even Spock’s disciplined mind registers it as a shockwave.",
+        "The physical evidence is worse. The Enterprise reaches a system where an inhabited planet has been reduced to drifting rubble—no atmosphere, no biosignatures, just fragments and dust. The scale suggests a weapon beyond conventional warfare, but there are no enemy ships, no battle debris, and no strategic logic. Whatever did this didn’t conquer; it fed.",
+        "A darkness begins to bloom on sensors, a “zone” where readings fail and light seems swallowed. The ship’s systems strain as if the Enterprise has entered a bad current: power levels fluctuate, controls lag, and the crew feels the creeping threat of a negative-energy environment that is not merely hostile but incompatible with humanoid life. The danger isn’t a single torpedo volley—it’s exposure.",
+        "When the culprit finally resolves on the viewscreen, it doesn’t look like any enemy the Federation has prepared for. It’s a colossal amoeba-like organism—layered membranes and undulating protoplasm surrounding a nucleus—so large it reads like a moving piece of geography. The Enterprise is not being chased by a ship; it’s being pulled into the feeding range of a living cell.",
+        "Kirk’s problem becomes brutally pragmatic: how do you fight biology at astronomical scale? Unmanned probes can’t survive long enough or transmit clearly enough from inside the creature. McCoy argues for a crewed mission because only a living pilot can adapt in real time, but Spock counters that the pilot must be someone who can operate with maximum scientific precision under extreme stress. Their argument is about tactics, but it’s also about identity—whether Starfleet is willing to risk a person to stop something that could erase worlds.",
+        "The stakes spike when Spock reaches the most frightening conclusion: the organism is nearing reproduction by cell division. One space amoeba is catastrophic; two could be unstoppable, and more could spread like an epidemic across shipping lanes and inhabited systems. The episode stops being a rescue mission and becomes containment—preventing a life-form from multiplying into a galaxy-scale extinction event.",
+        "Kirk is forced into the kind of command decision Trek rarely makes comfortable. Someone must take a shuttlecraft inside the organism to reach the nucleus and deliver a probe/warhead close enough for an antimatter detonation to work. McCoy volunteers out of moral urgency; Spock insists he is the better choice. Kirk chooses Spock, not because it’s easy, but because the mission demands a mind that can hold the necessary details together while everything else is trying to dissolve them.",
+        "Inside the amoeba, the shuttle mission plays like a descent into a biological labyrinth: membranes, turbulence, and pressure that feel like the inside of a living engine. Spock fights disorientation and the toxic field while guiding the device toward the nucleus and transmitting the last data the Enterprise needs. The final strike is a knife-edge—an antimatter blast into the nucleus at point-blank range—destroying the organism and saving untold lives, while the Enterprise barely survives the backlash from a creature that dies like a collapsing star."
+      ],
+      "WhyItMatters": [
+        "Defines one of Trek’s iconic “cosmic organism” threats: a life-form so large and indifferent that conventional concepts of enemy, motive, and diplomacy don’t apply.",
+        "Uses the USS Intrepid’s loss and Spock’s psychic shock to give the crisis emotional weight before the monster even appears on screen.",
+        "Raises stakes beyond a single encounter by making reproduction the real deadline—turning the story into a containment emergency rather than a battle.",
+        "Showcases the Kirk–Spock–McCoy triangle at its sharpest: command judgment, scientific necessity, and medical ethics colliding under existential pressure."
+      ]
     }
   ]
 }
