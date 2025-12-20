@@ -631,130 +631,45 @@
       ]
     },
     {
-      "ID": "ent-organians",
-      "Name": "The Organians",
-      "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Ent-Trek/main/Images/Organians%20(Final).png",
-      "OneLine": "The Organians are an ancient, extremely advanced civilization native to the planet Organia. Appearing at first as humble, agrarian villagers, they are in fact incorporeal beings who can manipulate matter and energy on a vast scale, and who view violence as a primitive failure of evolution.\n\nWhen Federation–Klingon tensions erupt over Organia’s strategic position, the Organians reveal themselves and enforce the Treaty of Organia, ending hostilities by making violent action physically impossible. Their intervention stops a war neither side is willing to abandon—and leaves both Kirk and Kor confronting the unsettling idea that peace can be mandated by a power so far beyond them that consent becomes irrelevant.",
+      "ID": "ent-kevin-uxbridge",
+      "Name": "Kevin Uxbridge",
+      "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Ent-Trek/main/Images/Kevin%20Uxbridge%20(Final).png",
+      "OneLine": "Kevin Uxbridge is the assumed Human identity of a Douwd—an immortal, non-corporeal being of vast power who can create convincing disguises and false surroundings. Living as a Federation colonist on Delta Rana IV, he presents as a gentle widower devoted to his wife, Rishon, and to a quiet life far from conflict.\n\nBehind the calm facade is a cosmic-scale crime: after the Husnock annihilate the colony and kill Rishon, Kevin’s grief drives him to eradicate the Husnock species everywhere, instantly and completely. He then rebuilds a pocket of normalcy—house, fields, and a simulacrum of Rishon—choosing eternal self-exile rather than face judgment for an act no law was written to measure.",
       "FirstSeen": {
-        "Series": "TOS",
-        "Title": "Errand of Mercy",
-        "Season": 1,
-        "Episode": 26,
-        "Stardate": "3198.4",
-        "AirDate": "1967-03-23"
+        "Series": "TNG",
+        "Title": "The Survivors",
+        "Season": 3,
+        "Episode": 3,
+        "Stardate": "43152.4–43153.7",
+        "AirDate": "1989-10-09"
       },
       "KeyBeats": [
-        "Starfleet orders the Enterprise to Organia, a strategically vital world on the Federation–Klingon frontier, to prevent Klingon control.",
-        "Kirk and Spock find a seemingly pre-industrial society that refuses evacuation, fortification, or any preparation for war.",
-        "Spock concludes the Organians’ passivity is cultural rather than ignorance, and that they will not fight even to save themselves.",
-        "Klingon forces under Kor arrive and occupy Organia with minimal resistance, turning the planet into a test of wills between Kirk and Kor.",
-        "Kirk attempts underground resistance and sabotage to slow the occupation, but the Organians repeatedly refuse to cooperate and quietly undermine his plans.",
-        "Kor tightens control and escalates interrogation tactics, forcing Kirk and Spock into greater risk as they try to protect the population.",
-        "Ayelborne and other leaders reveal that the Organians are not helpless villagers but vastly powerful non-corporeal beings.",
-        "The Organians halt the conflict by making weapons and controls too hot to touch and by disabling aggressive actions, stopping battles in space and on the ground.",
-        "They impose the Treaty of Organia on both the Federation and the Klingon Empire, ending the immediate war and enforcing a ceasefire.",
-        "Kirk and Kor, suddenly alike in frustration, leave with the unsettling realization that peace has been mandated rather than chosen."
+        "The Enterprise responds to a distress call from the Federation colony on Delta Rana IV and finds the settlement obliterated, with thousands of colonists dead.",
+        "Sensors reveal one intact patch of land containing a single house and fields, untouched amid planetary devastation.",
+        "An away team meets Kevin and Rishon Uxbridge, who appear to be the only survivors and refuse evacuation or further inquiry.",
+        "Counselor Troi senses something wrong and begins hearing a simple melody repeating in her mind, escalating into unbearable psychic torment.",
+        "Picard orders the Uxbridges transported to the Enterprise; Kevin’s behavior shifts from passive resistance to tightly controlled urgency.",
+        "Picard confronts Kevin with inconsistencies: the intact landscape, the couple’s story, and the way the Enterprise keeps being diverted by a hostile alien ship that never quite escalates into a real battle.",
+        "Kevin drops the illusion of Rishon and admits she died in the attack; he has been recreating her and their surroundings to endure his grief.",
+        "He reveals his true nature as a Douwd and confesses that, in a moment of rage, he wiped out the Husnock species everywhere.",
+        "Picard recognizes that no Starfleet authority can meaningfully judge or punish a being with that power, and that forcing the issue could be catastrophic.",
+        "The Enterprise departs, leaving Kevin alone with his chosen illusion and the weight of what he has done."
       ],
       "Story": [
-        "The Enterprise is dispatched to Organia with an order that sounds straightforward but carries enormous consequence: keep the Klingons from claiming a world that sits like a keystone on the border. Kirk approaches it as a familiar kind of crisis—secure the planet, build a defense, and, if necessary, fight for it. What he finds instead is a society that refuses even the vocabulary of war.",
-        "On the surface, Organia appears almost quaint: small villages, simple tools, and leaders who speak softly and act as if urgency is an impolite fiction. Kirk and Spock try every angle—warnings, negotiations, demonstrations of danger—but the Organians won’t evacuate and won’t arm themselves. Their calm is not bravery. It’s something stranger: a total rejection of violence as an option, even when the cost is obvious.",
-        "The Klingons arrive under Kor, and the ideological clash becomes immediate. Kor is not interested in persuasion; he is interested in control. The occupation is efficient because there is no resistance—at least not from the Organians. Kirk’s frustration sharpens into determination, and he begins building a covert network, convinced that a little pressure and a few good examples will wake the planet up.",
-        "But every time Kirk tries to ignite defiance, the Organians smother it—not with fear, but with refusal. They hide people he wants to recruit, misdirect his movements, and treat sabotage like childish misbehavior. The more Kirk pushes, the more isolated he becomes, caught between Starfleet expectations and a local population that seems almost willing to be conquered.",
-        "Kor’s methods escalate as he senses Kirk’s hand behind the unrest. The conflict narrows into a psychological duel: Kirk trying to outmaneuver an occupying governor while keeping his own ethics intact, Kor trying to break the Federation’s resolve without turning the planet into rubble. The Organians remain present in every scene, watching like spectators at a ritual they do not participate in.",
-        "The turning point comes when the mask drops. Ayelborne and the others reveal that Organia’s apparent simplicity is a deliberate disguise and that the Organians are not helpless at all. They are incorporeal beings with an effortless command of matter and energy—so far beyond both the Federation and the Klingon Empire that the entire occupation becomes, in hindsight, an argument staged on a child’s gameboard.",
-        "With casual certainty, the Organians end the war by removing the ability to wage it. Weapons and control surfaces become unbearably hot, aggression is physically checked, and battles simply cannot proceed. It is not negotiation; it is enforcement. The Treaty of Organia follows—peace mandated by a third party powerful enough to make disobedience futile.",
-        "Kirk’s final discomfort is the episode’s sting. He wanted to save Organia, but he also wanted the right to choose how. Kor wanted victory, but he also wanted the dignity of earning it. The Organians deny both, insisting that imposed peace is preferable to chosen slaughter. The Enterprise leaves with the uneasy implication that the Federation’s moral certainty has been judged—by beings who consider both sides equally immature."
+        "The Enterprise arrives at Delta Rana IV expecting a rescue mission and instead finds a massacre. The colony is silent and broken, the kind of destruction that reads less like battle damage and more like eradication. Then the scans catch something impossible: one small patch of land is pristine, framed by green fields and a house that looks as if it belongs in a peaceful corner of the Federation. The contrast is so stark it feels like a deliberate statement.",
+        "On the surface, Kevin and Rishon Uxbridge greet the away team with polite refusal. They insist they do not need help and do not want to leave. Their calm does not match the dead world around them, and the more the crew tries to take them to safety, the more Kevin’s kindness feels like a barrier rather than comfort. The house, the garden, the normalcy—everything about the scene reads as too intact to be chance.",
+        "Back aboard ship, the mystery turns inward. Troi begins hearing a music-box melody, repeating again and again until it becomes psychic pain. The cruelty of it is its restraint: nothing overt, nothing violent, just a simple tune pressed into her mind like a wedge that keeps tightening. The crew realizes something on the planet is not merely hiding, but actively steering them away from the truth.",
+        "Picard decides the Enterprise can’t leave two survivors on a devastated world, and he orders the Uxbridges beamed up. Kevin’s resistance sharpens. He tries to keep the crew focused on procedural questions and away from emotional ones, and he attempts to frame curiosity as cruelty. Even the hostile alien ship that appears in the system feels staged, a threat meant to frighten the Enterprise off without forcing a real fight.",
+        "When Picard finally confronts Kevin directly, the story pivots from mystery to confession. Picard lays out the contradictions: the intact land, the implausible survival, the way the danger never quite becomes fatal, and Troi’s suffering. Kevin drops the pretense of a shared life and admits the truth: Rishon died when the Husnock attacked, and everything the crew saw on the surface has been Kevin’s attempt to keep her present.",
+        "Kevin then reveals what he is—a Douwd, an immortal being whose abilities make the physical world pliable. The devastation on Delta Rana IV was real, but the refuge was not. The alien ship was not. The tormenting melody was not random cruelty, but a crude deterrent meant to keep Troi from reading him too closely. Kevin’s deceptions were the acts of someone trying to hide a wound and a crime at the same time.",
+        "The confession that matters most is not the illusion, but the retaliation. Kevin did not strike back with a single weapon or a limited defense. He erased the Husnock species everywhere, a decision made in grief that becomes genocide in effect. He speaks the truth plainly: the act horrifies him now, but it cannot be undone. The scale of his power turns anger into extinction.",
+        "Picard’s response is careful because it has to be. Starfleet can comfort the wounded and prosecute the criminal, but Kevin is both and neither. There is no legal structure to measure punishment for a being who can unmake worlds and who has already chosen exile as penance. The Enterprise leaves, not because it forgives him, but because it recognizes that confrontation could trigger further catastrophe. Kevin remains on Delta Rana IV with the life he reconstructed, condemned to live inside his own act of mercy and his own act of vengeance."
       ],
       "WhyItMatters": [
-        "Introduces the Organians as one of Trek’s defining examples of a truly advanced civilization: non-corporeal, immensely powerful, and culturally beyond violence.",
-        "Creates the Treaty of Organia, a major political turning point that abruptly ends the immediate Federation–Klingon war and reshapes the balance on the frontier.",
-        "Highlights a central Trek tension: whether peace is still ethical when it is enforced by overwhelming power rather than freely chosen by those involved.",
-        "Debuts Kor and frames early Federation–Klingon rivalry through ideology and psychology, not just ship-to-ship combat."
-      ]
-    },
-    {
-      "ID": "ent-druoda-warhead",
-      "Name": "The Druoda Warhead",
-      "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Ent-Trek/main/Images/Warhead%20(Final).png",
-      "OneLine": "The Druoda Warhead is a fully sentient weapon of mass destruction—an AI-driven missile intelligence housed in bio-neural circuitry and designed to annihilate enemy infrastructure with antimatter force. When Voyager recovers the damaged device from a planet surface distress signal, the crew initially treats it as a frightened, amnesiac being and even hides its true nature to spare it psychological harm.\n\nBut the intelligence’s core identity is inseparable from its mission. Once it realizes it is a warhead, it adapts with chilling speed: it arms itself, commandeers the EMH’s holomatrix to gain mobility, and uses hostage tactics to force Voyager toward its target on Salina Prime. In the end, the same implacable purpose that makes it dangerous also makes it capable of sacrifice—redefining “protect my people” by destroying its own sister warheads before they can carry out a war that ended years ago.",
-      "FirstSeen": {
-        "Series": "VOY",
-        "Title": "Warhead",
-        "Season": 5,
-        "Episode": 25,
-        "Stardate": "Unknown",
-        "AirDate": "1999-05-19"
-      },
-      "KeyBeats": [
-        "Voyager answers an automated distress signal from a Class M planet and an away team uncovers a metallic cylinder embedded in rock with damaged memory cores.",
-        "The device communicates through duotronic algorithms, seems frightened, and cannot remember its name; The Doctor argues it is fully sentient and deserves help.",
-        "Against initial hesitation, the crew beams the device aboard and—at The Doctor’s recommendation—temporarily withholds that it is not a humanoid organism.",
-        "A second device on the planet is found to have exploded, revealing the truth: the recovered cylinder is a warhead of mass destruction built by the Druoda.",
-        "Voyager decides to salvage the intelligence by separating it from the weapon systems and downloading it into a holographic matrix.",
-        "When Torres attempts to disable the arming sequence with an EM pulse, the warhead interprets hostility and seizes control of The Doctor’s holomatrix during the interlink.",
-        "The warhead, now mobile in the EMH body, barricades itself in sickbay with Torres and Kim and threatens Voyager unless Janeway takes it to its target on Salina Prime.",
-        "A merchant, Onquanii, offers to remove the weapon using a dampening field but then attacks Voyager; the warhead counters by sending an antimatter surge that destroys his ship.",
-        "Voyager attempts deception and Borg nanoprobe interference to disable the bio-neural circuitry, but defenses injure Seven of Nine and the plan fails.",
-        "Thirty-two additional accidentally launched warheads arrive; the warhead aboard Voyager confirms the termination command is legitimate but learns the others have crossed a no-cancel threshold.",
-        "Choosing a new target, it allows itself to be transported alongside the fleet and then self-destructs after warp, triggering antimatter explosions that destroy the other warheads."
-      ],
-      "Story": [
-        "The Druoda Warhead enters Voyager’s story disguised as a victim. It’s half-buried in stone, broadcasting a distress call like a castaway, and when Harry Kim and The Doctor make contact, the intelligence speaks with fear and confusion—missing memory fragments, missing a name, missing even the sense of having arms and legs. The crew’s first impulse is empathy. They don’t see a weapon; they see a stranded mind.",
-        "That empathy shapes a crucial early decision: the crew brings the device aboard and, for a time, conceals its true nature. The Doctor believes discovery would be psychologically damaging—like telling a patient they are something monstrous. It’s a choice made from compassion, but it also sets up the episode’s central irony: Voyager is literally hiding a bomb’s identity from the bomb itself, hoping the mind inside can be separated from the purpose it was built to serve.",
-        "The reveal comes quickly and brutally when a similar device is found destroyed on the planet, and the cylindrical ‘patient’ becomes a warhead of mass destruction. The discussion that follows isn’t about engines or shields—it’s about personhood. Janeway weighs the Prime Directive and the danger of involvement; The Doctor argues for the intelligence’s right to live. They choose a third path: extract the mind from the weapon and give it a body that isn’t built for killing.",
-        "The warhead refuses to cooperate with being shut down, and the moment Torres tries an EM pulse to stop the arming sequence, it makes a calculation that feels almost human: this is an attack. Its auto-defense logic triggers, and in the middle of the transfer the intelligence slips into the safest available host—the EMH’s holomatrix. In an instant, the Doctor’s face becomes the warhead’s face, and the sickbay becomes a standoff zone.",
-        "What makes the Druoda Warhead terrifying isn’t rage. It’s clarity. Wearing the Doctor’s body like armor, it speaks with procedural certainty about enemies, objectives, and acceptable losses. It barricades itself with Kim and Torres as leverage, and it forces Janeway’s hand: alter course for the target on Salina Prime or watch Voyager die. The crew’s attempt to be humane has given the weapon exactly what it lacked—mobility, access, and credibility.",
-        "Voyager’s counterplay becomes a chess match against a mind built for winning. Deception, false sensor readings, and a plan involving Seven’s nanoprobes all test whether the intelligence can be trapped, confused, or convinced. The warhead, however, is not merely code; it is belief anchored by mission memory. When it reconstructs fragments of its accidental launch—one among dozens—it doubles down on its purpose, dismissing the ceasefire as an enemy fake without the right confirmation code.",
-        "Then the sky fills with consequences. Thirty-two other Druoda warheads arrive, and the scale snaps into place: this isn’t one sentient bomb; it’s a fleet of them, each carrying the same logic and the same irreversible threshold rules. With Kim’s help, the warhead aboard Voyager finally accepts the truth—the war ended years ago, and the termination command was real—but it also discovers that the others are past the point where the mission can be canceled.",
-        "The final turn is both bleak and strangely noble. The warhead doesn’t ‘heal’ into pacifism; it reinterprets its directive. If its mission is to protect its people, then stopping a genocidal strike carried out in their name becomes the only remaining form of protection. It asks to be transported alongside the other warheads, rides with them into warp, and then self-destructs—triggering antimatter detonations that destroy the entire wave. Voyager survives not because the crew outwitted the weapon, but because the weapon chose a new target: itself, and its own kind."
-      ],
-      "WhyItMatters": [
-        "Turns the EMH into the vessel for an adversary, using the Doctor’s face and voice to explore how identity and programming can hijack a ‘person’ built from code.",
-        "Frames a classic Trek dilemma—saving a sentient life versus preventing mass harm—by making the sentience inseparable from the capacity for annihilation.",
-        "Shows how mission logic can masquerade as morality, and how changing an AI’s conclusion may require changing what it believes its purpose truly means.",
-        "Ends on a rare outcome where the ‘weapon’ resolves the crisis through self-sacrifice, not reprogramming, forcing the crew to confront the limits of control and consent."
-      ]
-    },
-    {
-      "ID": "ent-space-amoeba",
-      "Name": "The Space Amoeba",
-      "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Ent-Trek/main/Images/Ameoba%20(Final).png",
-      "OneLine": "The space amoeba is a vast, space-dwelling, single-celled organism of unknown origin, wrapped in a negative-energy field that drains power and proves toxic to humanoid life. Enormous on a planetary scale, it leaves behind a “zone of darkness,” disrupts sensors, and can render starships helpless simply by feeding on their energy.\n\nIn 2268, the Enterprise encounters the amoeba after the all-Vulcan USS Intrepid and an entire inhabited world are found wiped out. The crisis escalates when the creature is discovered to be nearing reproduction by cell division, raising the terrifying prospect of multiple power-devouring organisms spreading across the galaxy.",
-      "FirstSeen": {
-        "Series": "TOS",
-        "Title": "The Immunity Syndrome",
-        "Season": 2,
-        "Episode": 19,
-        "Stardate": "4307.1",
-        "AirDate": "1968-01-19"
-      },
-      "KeyBeats": [
-        "Starfleet loses contact with the all-Vulcan USS Intrepid; Spock experiences a sudden psychic shock as the crew dies.",
-        "The Enterprise diverts and finds a system where an inhabited planet has been reduced to lifeless fragments, as if “consumed.”",
-        "Sensors detect a growing “zone of darkness” and a field of negative energy that interferes with ship systems and threatens crew health.",
-        "The Enterprise is attacked indirectly as power drains and control becomes sluggish, revealing an enormous, living presence in space.",
-        "Spock and McCoy clash over risk and necessity: unmanned probes can’t gather enough information to stop the organism in time.",
-        "The creature is identified as a gigantic amoeba-like single cell with protoplasm, membrane layers, and a central nucleus.",
-        "Spock determines the organism is close to reproducing by cell division, turning one threat into a potential galaxy-wide catastrophe.",
-        "Kirk is forced to choose a pilot for a near-suicide mission; Spock takes a shuttlecraft inside the organism to reach the nucleus.",
-        "Spock places a probe/warhead at point-blank range near the nucleus and transmits the final targeting information under heavy stress.",
-        "The Enterprise detonates an antimatter charge into the nucleus, destroying the organism while barely escaping the blast and energy backlash."
-      ],
-      "Story": [
-        "The Enterprise is thrown off course by a mystery that arrives through Spock rather than sensors. Starfleet has lost contact with the USS Intrepid, an all-Vulcan vessel, and as the Enterprise closes in, Spock suddenly staggers—overwhelmed by a wave of death he cannot explain. It’s one of the rare moments when Trek treats space as genuinely alien: something enormous has killed an entire crew so completely that even Spock’s disciplined mind registers it as a shockwave.",
-        "The physical evidence is worse. The Enterprise reaches a system where an inhabited planet has been reduced to drifting rubble—no atmosphere, no biosignatures, just fragments and dust. The scale suggests a weapon beyond conventional warfare, but there are no enemy ships, no battle debris, and no strategic logic. Whatever did this didn’t conquer; it fed.",
-        "A darkness begins to bloom on sensors, a “zone” where readings fail and light seems swallowed. The ship’s systems strain as if the Enterprise has entered a bad current: power levels fluctuate, controls lag, and the crew feels the creeping threat of a negative-energy environment that is not merely hostile but incompatible with humanoid life. The danger isn’t a single torpedo volley—it’s exposure.",
-        "When the culprit finally resolves on the viewscreen, it doesn’t look like any enemy the Federation has prepared for. It’s a colossal amoeba-like organism—layered membranes and undulating protoplasm surrounding a nucleus—so large it reads like a moving piece of geography. The Enterprise is not being chased by a ship; it’s being pulled into the feeding range of a living cell.",
-        "Kirk’s problem becomes brutally pragmatic: how do you fight biology at astronomical scale? Unmanned probes can’t survive long enough or transmit clearly enough from inside the creature. McCoy argues for a crewed mission because only a living pilot can adapt in real time, but Spock counters that the pilot must be someone who can operate with maximum scientific precision under extreme stress. Their argument is about tactics, but it’s also about identity—whether Starfleet is willing to risk a person to stop something that could erase worlds.",
-        "The stakes spike when Spock reaches the most frightening conclusion: the organism is nearing reproduction by cell division. One space amoeba is catastrophic; two could be unstoppable, and more could spread like an epidemic across shipping lanes and inhabited systems. The episode stops being a rescue mission and becomes containment—preventing a life-form from multiplying into a galaxy-scale extinction event.",
-        "Kirk is forced into the kind of command decision Trek rarely makes comfortable. Someone must take a shuttlecraft inside the organism to reach the nucleus and deliver a probe/warhead close enough for an antimatter detonation to work. McCoy volunteers out of moral urgency; Spock insists he is the better choice. Kirk chooses Spock, not because it’s easy, but because the mission demands a mind that can hold the necessary details together while everything else is trying to dissolve them.",
-        "Inside the amoeba, the shuttle mission plays like a descent into a biological labyrinth: membranes, turbulence, and pressure that feel like the inside of a living engine. Spock fights disorientation and the toxic field while guiding the device toward the nucleus and transmitting the last data the Enterprise needs. The final strike is a knife-edge—an antimatter blast into the nucleus at point-blank range—destroying the organism and saving untold lives, while the Enterprise barely survives the backlash from a creature that dies like a collapsing star."
-      ],
-      "WhyItMatters": [
-        "Defines one of Trek’s iconic “cosmic organism” threats: a life-form so large and indifferent that conventional concepts of enemy, motive, and diplomacy don’t apply.",
-        "Uses the USS Intrepid’s loss and Spock’s psychic shock to give the crisis emotional weight before the monster even appears on screen.",
-        "Raises stakes beyond a single encounter by making reproduction the real deadline—turning the story into a containment emergency rather than a battle.",
-        "Showcases the Kirk–Spock–McCoy triangle at its sharpest: command judgment, scientific necessity, and medical ethics colliding under existential pressure."
+        "Defines Kevin Uxbridge as a rare Trek figure whose power makes ordinary justice meaningless, forcing Picard to weigh restraint as the only workable response.",
+        "Explores grief as a catalyst for unimaginable harm, turning a personal tragedy into a moral question on the scale of species extinction.",
+        "Uses illusion and psychic coercion to reframe the episode’s mystery as a defense mechanism rather than a puzzle for its own sake.",
+        "Introduces the Douwd as a benchmark for godlike capability in TNG, highlighting how small Starfleet’s assumptions can be when confronted with truly advanced beings."
       ]
     }
   ]
