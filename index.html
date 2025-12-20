@@ -438,7 +438,10 @@
       }
       entities = entities
         .filter(e => e && typeof e === "object" && e.ID && e.Name)
-        .sort((a,b) => String(a.Name).localeCompare(String(b.Name)));
+        .sort((a,b) => {
+        const collator = new Intl.Collator(undefined, { numeric: true, sensitivity: "base" });
+        return collator.compare(String(a.Name), String(b.Name));
+      });
       rebuildIndex();
       buildOptions(entities);
       buildButtons(entities, entities[0].ID);
