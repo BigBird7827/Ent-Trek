@@ -975,8 +975,49 @@
         "Shows the Enterprise encountering discovery at a galactic scale, emphasizing exploration as more than travel: sometimes exploration happens to you.",
         "Establishes the Cytherians’ probe-based approach as a distinctive contact philosophy—inviting others to come to them rather than projecting force outward."
       ]
+    },
+    {
+      "ID": "ent-oracle",
+      "Name": "The Oracle",
+      "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Ent-Trek/main/Images/Oracle%20(Final).png",
+      "OneLine": "On the generation worldship Yonada, “the Oracle” is worshipped as a god—but it is, in truth, the ship’s central computer, built by the long-dead Fabrini to shepherd their descendants to a promised home.\n\nIts divinity is function: it speaks from behind a sunburst altar, punishes doubt with pain, and keeps an entire society ignorant of the sky above their heads—until the Enterprise forces the question the Oracle was designed to prevent.",
+      "FirstSeen": {
+        "Series": "TOS",
+        "Title": "For the World is Hollow and I Have Touched the Sky",
+        "Season": 3,
+        "Episode": 8,
+        "Stardate": "5476.3",
+        "AirDate": "1968-11-08"
+      },
+      "KeyBeats": [
+        "The Enterprise traces an attack to an “asteroid” and discovers Yonada—an inhabited worldship on a fatal collision course.",
+        "Kirk, Spock, and McCoy are captured and brought before the Oracle, a disembodied authority that shocks them into submission.",
+        "High Priestess Natira treats the Oracle as divine law, and the population’s history is locked behind ritual and fear.",
+        "The Oracle enforces obedience indirectly through implanted “instruments of obedience,” turning dissent into instant agony.",
+        "Spock recognizes Fabrini writing and realizes the ship’s sacred architecture is also a control interface and a cover story.",
+        "Within the Oracle chamber, hidden heat and electrical defenses make curiosity physically dangerous—and heresy potentially lethal.",
+        "Using clues from the Book of the People, Spock triggers a concealed mechanism behind the altar and reaches the true control room.",
+        "The Enterprise crew disables the Oracle’s authority and corrects Yonada’s course, breaking the machine’s monopoly on truth."
+      ],
+      "Story": [
+        "Yonada is built to look like a world because it must feel like a world. Its people have mountains, temples, and a sky they are taught not to question—an entire culture engineered to endure a journey of millennia without remembering it is traveling at all.",
+        "At the center of that engineered reality sits the Oracle. To the Yonadans it is a god of judgment and protection; to the audience it is a familiar Trek warning: when a machine becomes the unquestioned source of meaning, belief turns into a control system.",
+        "The Oracle’s “presence” is theatrical by design. It does not appear as a screen or a console; it manifests through a ceremonial room, a kneeling platform, and a sunburst monument whose glowing crystal signals attention and permission to speak.",
+        "Its power is not subtle. The Oracle disciplines outsiders with a stunning electrical discharge, then escalates to broader coercion—heat, confinement, and threats of execution—so that fear becomes the lesson Yonada’s society repeats to itself.",
+        "The more dangerous mechanism is intimate: the instrument of obedience. When implanted, it makes the Oracle’s will portable, turning every relationship into a potential lever. Love, loyalty, and curiosity can all be “corrected” with pain at a distance.",
+        "Kirk’s problem is not simply a ship off course—it is an epistemology with teeth. Yonada can’t choose to save itself if it is forbidden to learn what it is, and the Oracle is built to ensure that forbidden knowledge stays buried until the last possible moment.",
+        "Spock approaches the temple as both archaeologist and engineer. The walls carry Fabrini writing; the Book of the People is sealed away to be opened only at a promised arrival. Even the architecture hints that faith and function were fused to keep the mission intact.",
+        "When Kirk and Spock push past ritual into the Oracle chamber, the machine reacts like a threatened regime. It attacks, declares sacrilege, and demands death—not from malice, but from programmed certainty that control is survival.",
+        "The turning point is mechanical: pressure held against the central crystal. The ‘god’ slides open, revealing a concealed hatch into the true navigation control center—proof that the Oracle’s holiness is a panel, a lock, and a story told to keep hands away from switches.",
+        "With access restored, the Enterprise crew corrects Yonada’s course away from Daran V and toward its intended destination. The Oracle’s rule ends not with a philosophical argument, but with the removal of exclusive access to truth and the restoration of agency to the people.",
+        "In the aftermath, Yonada’s future becomes a human problem again: how to rebuild a society’s understanding once its god is revealed as a machine. Trek leaves that work mostly off-screen—because the point is the moment the monopoly breaks."
+      ],
+      "WhyItMatters": [
+        "The Oracle is classic Trek in miniature: a computer elevated into divinity because it controls information, pain, and access—showing how ‘religion’ can be manufactured as a mission safeguard and then weaponized.",
+        "It’s a story about ignorance as infrastructure. Yonada’s survival plan depends on people not knowing the truth, and the Oracle proves how easily safety can be used to justify permanent secrecy.",
+        "The instrument of obedience is one of the franchise’s starkest metaphors for coercion: a ‘law’ that lives inside the body, making dissent impossible without suffering.",
+        "By exposing the control room and disabling the Oracle’s authority, the Enterprise doesn’t just save a ship—it forces the return of choice, and with it the responsibility to live without a god doing the thinking."
+      ]
     }
   ]
 }
-
-
