@@ -320,7 +320,7 @@
     {
       "ID": "ent-landru",
       "Name": "Landru",
-      "ImageURL": "",
+      "ImageURL": "https://raw.githubusercontent.com/BigBird7827/Ent-Trek/main/Images/Landru%20(Final).png",
       "OneLine": "On Beta III, the streets are orderly, the smiles are practiced, and the citizens’ calm feels less like peace than like sedation. Landru is the name they trust—an unseen protector who ended an age of violence long ago and now keeps society “safe,” even when no one can clearly explain the price.\n\nIn “The Return of the Archons,” the Enterprise discovers that Landru’s order is enforced by conditioning and ritual, with individuality treated as a dangerous defect. Happiness is engineered, chaos is rationed into a daily release, and dissenters are “absorbed” into a collective. What looks like paradise is revealed as a machine.",
       "FirstSeen": {
         "Series": "TOS",
@@ -978,3 +978,4 @@
     }
   ]
 }
+
