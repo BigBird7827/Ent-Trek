@@ -29,7 +29,7 @@
       min-height:100vh;
     }
     header{
-      padding:20px 22px 10px;
+      padding:20px 0 10px;
       display:flex;
       gap:14px;
       align-items:baseline;
@@ -40,7 +40,19 @@
       flex-direction:column;
       gap:4px;
     }
-    h1{
+    
+
+    .titlebox{
+      width: calc(100% - 50px);
+      margin: 0 25px;
+      padding: 14px 25px;
+      background: linear-gradient(180deg, rgba(255,255,255,.06), rgba(255,255,255,0)), var(--panel);
+      border:1px solid var(--edge);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      text-align:left;
+    }
+h1{
       margin:0;
       font-size:22px;
       letter-spacing:.6px;
@@ -261,22 +273,31 @@
 <style id="mainConsoleInlineStyle">
   .main-console-inline{
     display:flex;
-    justify-content:center;
+
     align-items:center;
+    justify-content: flex-start;
+    align-items: flex-start;
   }
   .main-console-inline a{
     text-decoration:none;
+    width: fit-content;
+    min-width: unset;
+    max-width: unset;
+    flex: 0 0 auto;
   }
 </style>
 </head>
 <body>
   <header>
+    <div class="titlebox">
     <div class="title">
       <h1>Entities Console</h1>
       <div class="subtitle">Select an entity to read its story.</div>
       <div class="main-console-inline" style="margin-top: 12px;"><a class="btn" href="https://bigbird7827.github.io/Main-Console/">MAIN CONSOLE</a></div>
 
     </div>
+  </div>
+
   </header>
 
   <main class="wrap">
